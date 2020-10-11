@@ -1,1 +1,3 @@
-# thesis_project_3
+Welcome to the code base for me third thesis project. In this project, I am examining...
+
+
