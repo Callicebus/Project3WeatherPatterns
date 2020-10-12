@@ -4,4 +4,4 @@ Making some eddits to see how making branches works.
 
 Editing from .txt file and then pushing to git.
 Adding another line of text on a Monday morning.
-
+Editing text file in vi.
