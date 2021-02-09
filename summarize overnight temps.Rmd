@@ -1,0 +1,44 @@
+---
+title: "Summarize Overnight Temperatures"
+author: "Anthony Di Fiore"
+date: "11/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(lubridate)
+range <- c(18,5) # define start and stop hours (e.g., 1800 previous night to 0500 this morning)
+f <- "C:/Users/Silvy/Box Sync/Austin/Tiputini/Acoustics/Project 3 - Climatic Variables and Calling Behavior/2016TempDataforRScriptTony.csv" # path to datafile
+t <- read_csv(f, col_names = TRUE) 
+t$today <- as_date(parse_date_time2(t$Date, orders = "mdY", tz = "America/Bogota"))
+#t$today <- t$Date
+t$tomorrow <- as_date(t$today + days(1))
+t$now <- as_datetime(t$today + hms(t$Time))
+t <- select(t, now, Time, today, tomorrow, `Celsius`)
+t <- mutate(t, lastnight = as_date(ifelse(hour(now) >= range[1], tomorrow, ifelse(hour(now) <= range[2], today, NA))))
+
+today <- group_by(t, today) %>%
+  summarize(today_average = mean(`Celsius`),
+            n = n())
+lastnight <- group_by(t, lastnight) %>%
+  summarize(lastnight_average = mean(`Celsius`),
+            lastnight_min = min(`Celsius`),
+            n = n()) %>%
+  filter(!is.na (lastnight)) %>%
+  filter(n >= range[1] - (range[2] + 1)) %>% # gets rid of those days (first and last) where the overnight summary is based on only partial data (1800 to 0000 or 0000 to 0500)
+  
+  rename(today = lastnight)
+
+s <- full_join(today, lastnight, by = "today") # will yield NA for lastnight values for first date
+
+p <- ggplot(s, aes(x=today)) +
+  geom_line(aes(y=lastnight_average), color = "green") + # avg temp from 1800 previous night to 0600 on this date
+  geom_line(aes(y=lastnight_min), color = "blue") + # min temp from 1800 previous night to 0600 on this date
+  geom_line(aes(y=today_average), color = "black") # avg temp for this date (24 hours)
+print(p)
+```
