@@ -15,9 +15,9 @@ library(lubridate)
 range <- c(18,5) # define start and stop hours (e.g., 1800 previous night to 0500 this morning)
 f <- "C:/Users/Silvy/Box Sync/Austin/Tiputini/Acoustics/Project 3 - Climatic Variables and Calling Behavior/2016TempDataforRScriptTony.csv" # path to datafile
 t <- read_csv(f, col_names = TRUE) 
-head(t)
 t$today <- as_date(parse_date_time2(t$Date, orders = "mdY", tz = "America/Bogota"))
 t$today <- t$Date #This copies the column 'Date' and pastes it under new column name 'today'
+#This next line of code worked fine earlier on, but now gives me Error: Incompatible classes: <character> + <Period> Not sure how to fix this.
 t$tomorrow <- as_date(t$today + days(1)) #Increases day by +1
 t$now <- as_datetime(t$today + hms(t$Time))
 t <- select(t, now, Time, today, tomorrow, `Celsius`)
