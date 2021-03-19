@@ -1,6 +1,6 @@
 # Creating Project 3 main data file.
 
-setwd('C:/Users/Silvy/Documents/R/Repos/thesis_project_3/thesis_project_3')
+setwd('C:/Users/Silvy/Documents/R/Repos/Project3WeatherPatterns')
 library(dplyr)
 library(lubridate)
 
@@ -9,26 +9,26 @@ library(lubridate)
 #Step 1: Load in data files.
 
 # 1.1 - Load in main data
-MainData <- read.csv(file = 'Project3-Main_Data_Sheet.csv')
-head(MainData)
+Acoustic_Data <- read.csv(file = 'Project3-Main_Data_Sheet.csv')
+head(Acoustic_Data)
 
 # 1.2 - Load in lunar phase data
-LunarData <- read.csv(file = 'Johnblake_dates_with_phase.csv')
-head(LunarData)
+Lunar_Data <- read.csv(file = 'Johnblake_dates_with_phase.csv')
+head(Lunar_Data)
 
 # 1.3 - Load in temperature data - overnight averages
 
 
 # 1.4 - Load in temperature data - hourly temperature and humidity
-HourlyWeatherData <- read.csv(file = 'WeatherDataPerHour.csv')
-head(HourlyWeatherData)
+Hourly_Weather_Data <- read.csv(file = 'WeatherDataPerHour.csv')
+head(Hourly_Weather_Data)
 
 
 
 #Step 2: Join file 1.2 to file 1.1
 
-MainData2 <- left_join(MainData, LunarData, by = "Date")
-head(MainData2) #Double check this worked. Compare to MainData
+Acoustic_and_Lunar_Data <- left_join(Acoustic_Data, Lunar_Data, by = "Date")
+head(Acoustic_and_Lunar_Data) #Double check this worked. Compare to MainData
 
 
 
@@ -43,7 +43,7 @@ head(MainData2) #Double check this worked. Compare to MainData
 
 #Step 4: Join file 1.4 to file 1.1
 #This I need help with. The join here is complicated. It needs to (1) join by date and (2) join by closest hour.
-
+#Create a loop over Acoustic_and_Lunar_data use a subquery.
 
 
 #Step 5: Correct duration data -> from minutes and seconds since midnight to seconds.
