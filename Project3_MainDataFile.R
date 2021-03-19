@@ -3,6 +3,7 @@
 setwd('C:/Users/Silvy/Documents/R/Repos/Project3WeatherPatterns')
 library(dplyr)
 library(lubridate)
+library(stringr)
 
 
 
@@ -41,18 +42,25 @@ head(Acoustic_and_Lunar_Data) #Double check this worked. Compare to MainData
 
 
 
-# Step 4: Join file 1.4 to file 1.1
-# This I need help with. The join here is complicated. It needs to (1) join by date and (2) join by closest hour.
-# Something with lapply(Acoustic_and_Lunar_Data, ) maybe?
-# Maybe use round_date() from lubridate to match recording start times and temperature times?
-# Or maybe fuzzy_left_join() from fuzzyjoin package?
-MergeHourlyWeatherData <- function(Acoustic_and_Lunar_Data){
-  for (i in Acoustic_and_Lunar_Data$StartTime) {
-    if (Acoustic_and_Lunar_Data$Date == Hourly_Weather_Data$Date)
-      #I have no idea what I'm doing.
-  }
-}
+# Step 4: Join file 1.4 to file 1.1 - Code Witten by Tony Di Fiore.
+Acoustic_and_Lunar_Data <- 
+  Acoustic_and_Lunar_Data %>%
+  mutate(Date2 = parse_date_time(Date, orders = c("mdy")),
+         hh = str_sub(`StartTime`,1,2),
+         mm = str_sub(`StartTime`,3,4),
+         ss = str_sub(`StartTime`,5,6),
+         dt = make_datetime(year=year(Date2), month=month(Date2), day=day(Date2), hour = as.numeric(hh), min = as.numeric(mm), sec = as.numeric(ss))) %>%
+  select(-c(Date2, hh, mm, ss)) %>%
+  mutate(roundDateTime = round_date(dt, unit = "hour"))
 
+Hourly_Weather_Data <- Hourly_Weather_Data %>%
+  mutate(Date2 = parse_date_time(Date, orders = c("dmy")),
+         Time2 = parse_date_time(Time, orders = c("IMSp")),
+         dt = make_datetime(year=year(Date2), month=month(Date2), day=day(Date2), hour = hour(Time2), min = minute(Time2), sec = second(Time2))) %>%
+  select(-c(Date2, Time2)) %>%
+  mutate(roundDateTime = round_date(dt, unit = "hour"))
+
+trialMerge <- left_join(Acoustic_and_Lunar_Data, Hourly_Weather_Data[ , c("roundDateTime", "Celsius", "Humidity")], by = "roundDateTime")
 
 
 

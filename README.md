@@ -1,7 +1,6 @@
-Welcome to the code base for me third thesis project. In this project, I am examining...
+#Weather Pattterns & Primate Vocal Behavior Repository - PhD Thesis Project - Silvy van Kuijk
 
-Making some eddits to see how making branches works.
+This repository contains R scripts for one of my PhD thesis projects. In this project, I am examining the effect of weather changes on the calling behavior of primates early in the morning.
+This repo contains the following files:
 
-Editing from .txt file and then pushing to git.
-Adding another line of text on a Monday morning.
-Editing text file in vi.
+- 
