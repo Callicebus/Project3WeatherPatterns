@@ -16,7 +16,7 @@ range <- c(18,5) # define start and stop hours (e.g., 1800 previous night to 050
 
 t <- read_csv(file = 'C:/Users/Silvy/Documents/R/Repos/Project3WeatherPatterns/WeatherDataPerHour.csv', col_names = TRUE)
 
-t$today <- as_date(parse_date_time2(t$Date, orders = "mdY", tz = "America/Bogota"))
+t$today <- as_date(parse_date_time2(t$Date, orders = "dmy", tz = "America/Bogota"))
 t$tomorrow <- as_date(t$today + days(1)) #Increases day by +1
 t$now <- as_datetime(t$today + hms(t$Time))
 
@@ -37,6 +37,8 @@ lastnight <- group_by(t, lastnight) %>%
   rename(today = lastnight)
 
 s <- full_join(today, lastnight, by = "today") # will yield NA for lastnight values for first date
+
+write.csv(s,"overnight_temperatures.csv",na="NA",row.names=TRUE)
 
 p <- ggplot(s, aes(x=today)) +
   geom_line(aes(y=lastnight_average), color = "green") + # avg temp from 1800 previous night to 0600 on this date
