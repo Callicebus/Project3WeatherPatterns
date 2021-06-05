@@ -18,7 +18,8 @@ Lunar_Data <- read.csv(file = 'Johnblake_dates_with_phase.csv')
 head(Lunar_Data)
 
 # 1.3 - Load in temperature data - overnight averages
-
+Overnight_Temperatures <- read.csv('overnight_temperatures.csv')
+head(Overnight_Temperatures)
 
 # 1.4 - Load in temperature data - hourly temperature and humidity
 Hourly_Weather_Data <- read.csv(file = 'WeatherDataPerHour.csv')
@@ -35,16 +36,16 @@ head(Acoustic_and_Lunar_Data) #Double check this worked. Compare to MainData
 
 # Step 3: Join file 1.3 to file 1.1
 
-# This will likely be something like the following example, but will need to complete this file first:
-# DF2 <- DF2 %>% 
-# select(Date, Temperature, Humidity) (this uses only the three selected columns and ignores all other info that we don't need)
-# joined_data <- left_join(DF1, DF2, by = "Date")
+colnames(Overnight_Temperatures)[colnames(Overnight_Temperatures) == 'today'] <- 'Date'
+Overnight_Temperatures <- Overnight_Temperatures %>% 
+  select(Date, today_average, lastnight_average, lastnight_min) 
+Acoustic_and_Lunar_and_Overnight <- left_join(Acoustic_and_Lunar_Data, Overnight_Temperatures, by = "Date")
 
 
 
 # Step 4: Join file 1.4 to file 1.1 - Code Witten by Tony Di Fiore.
-Acoustic_and_Lunar_Data <- 
-  Acoustic_and_Lunar_Data %>%
+Acoustic_and_Lunar_and_Overnight <- 
+  Acoustic_and_Lunar_and_Overnight %>%
   mutate(Date2 = parse_date_time(Date, orders = c("mdy")),
          hh = str_sub(`StartTime`,1,2),
          mm = str_sub(`StartTime`,3,4),
@@ -60,15 +61,7 @@ Hourly_Weather_Data <- Hourly_Weather_Data %>%
   select(-c(Date2, Time2)) %>%
   mutate(roundDateTime = round_date(dt, unit = "hour"))
 
-trialMerge <- left_join(Acoustic_and_Lunar_Data, Hourly_Weather_Data[ , c("roundDateTime", "Celsius", "Humidity")], by = "roundDateTime")
-
-
-
-# Step 5: Correct duration data -> from minutes and seconds since midnight to seconds.
-# I did a stupid thing while analyzing audio files. For the 'CallDuration' column I would fill in how many minutes and seconds long a call was. A 1 minute 20 second call was then automatically recorded in Excel as 12:01:20 AM. I can't work with that, so I'll need to convert mm:ss to seconds.
-
-# Maybe something like this? Can't quite get it to work...
-# Acoustic_Data$CallDuration <- as_date(parse_date_time2(Acoustic_Data$CallDuration, orders = "hms", tz = "America/Bogota"))
-# Acoustic_Data$DurationInSec <- dseconds(Acoustic_Data$CallDuration)
+Project3_Final_Data_per_Recording <- left_join(Acoustic_and_Lunar_and_Overnight, Hourly_Weather_Data[ , c("roundDateTime", "Celsius", "Humidity")], by = "roundDateTime")
+write.csv(Project3_Final_Data_per_Recording, "Project3_Final_Data_per_Recording.csv",na="NA",row.names=TRUE)
 
 

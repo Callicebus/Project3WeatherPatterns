@@ -20,13 +20,57 @@ setwd('C:/Users/Silvy/Documents/R/Repos/Project3WeatherPatterns')
 library(dplyr)
 library(lubridate)
 library(stringr)
+library(lme4)
+library(tidyverse)
 
+```
+
+## Preparing Dataset
+
+```{r}
+# Step 1: Correct duration data -> from minutes and seconds since midnight to seconds.
+
+
+# Maybe something like this? Can't quite get it to work...
+# Acoustic_Data$CallDuration <- as_date(parse_date_time2(Acoustic_Data$CallDuration, orders = "hms", tz = "America/Bogota"))
+# Acoustic_Data$DurationInSec <- dseconds(Acoustic_Data$CallDuration)
+
+
+```
+
+## Transforming dataset into separate Titi and Howler datasets
+
+```{r}
+data <- read.csv("Project3_Final_Data_per_Recording.csv")
+data <- mutate(data, Titis = ifelse(data$PrimateSpecies == "Titi", "True", "False"))
+data <- mutate(data, Howlers = ifelse(data$PrimateSpecies == "Howler", "True", "False"))
+
+data_per_day <- data.frame(unique(data$Date))
+colnames(data_per_day) <- "Date"
+
+Lunar_Data <- read.csv(file = 'Johnblake_dates_with_phase.csv')
+Dates_Plus_Lunar <- left_join(data_per_day, Lunar_Data, by = "Date")
+
+Overnight_Temperatures <- read.csv('overnight_temperatures.csv')
+colnames(Overnight_Temperatures)[colnames(Overnight_Temperatures) == 'today'] <- 'Date'
+Overnight_Temperatures <- Overnight_Temperatures %>% 
+  select(Date, today_average, lastnight_average, lastnight_min) 
+Dates_Lunar_Overnight <- left_join(Dates_Plus_Lunar, Overnight_Temperatures, by = "Date")
+
+Dates_Lunar_Overnight$Year <- format(as.Date(Dates_Lunar_Overnight$Date, format="%m/%d/%Y"),"%Y")
+
+Dates_Lunar_Overnight <- semi_join(Dates_Lunar_Overnight, data[ , c("Titis")], by = "Date", copy = TRUE)
+write.csv(Dates_Lunar_Overnight, "ForMayFourteen.csv",na="NA",row.names=TRUE)
 
 ```
 
 ## GLMM
 
 ```{r}
-#GLMM
+GLMM_Data <- read.csv("ForMayFourteen.csv")
 
+
+Model1 <- glm(data = GLMM_Data, family=binomial, formula = Titis ~ Rain + today_average + lastnight_average + lastnight_min)
+summary(Model1)
+AIC(Model1)
 ```
