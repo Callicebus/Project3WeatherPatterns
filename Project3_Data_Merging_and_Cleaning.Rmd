@@ -1,0 +1,49 @@
+---
+title: "Project3_Data_Merging_and_Cleaning"
+author: "Silvy van Kuijk & Tony Di Fiore"
+date: "6/14/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Creating the complete Project 3 main data files needed for GLMM analysis.
+
+
+```{r}
+#setwd('C:/Users/Silvy/Documents/R/Repos/Project3WeatherPatterns')
+library(dplyr)
+library(lubridate)
+library(stringr)
+library(tidyverse)
+```
+
+#Step 1: Load in data files.
+
+# 1.1 - Load in main data
+```{r}
+Acoustic <- "https://raw.githubusercontent.com/Callicebus/Project3WeatherPatterns/main/Project3-Main_Data_Sheet.csv"
+Acoustic_Data <- read_csv(Acoustic, col_names = TRUE)
+```
+
+# 1.2 - Load in lunar phase data
+```{r}
+Lunar <- "https://raw.githubusercontent.com/Callicebus/Project3WeatherPatterns/main/Johnblake_dates_with_phase.csv" 
+Lunar_Data <- read_csv(Lunar, col_names = TRUE)
+```
+
+# 1.3 - Load in temperature data - overnight averages
+```{r}
+Overnight <- "https://raw.githubusercontent.com/Callicebus/Project3WeatherPatterns/main/overnight_temperatures.csv"
+Overnight_Temperatures <- read_csv(Overnight, col_names = TRUE)
+```
+
+# 1.4 - Load in temperature data - hourly temperature and humidity
+```{r}
+Hourly <- "https://raw.githubusercontent.com/Callicebus/Project3WeatherPatterns/main/WeatherDataPerHour.csv"
+Hourly_Weather_Data <- read_csv(Hourly, col_names = TRUE)
+```
+
+

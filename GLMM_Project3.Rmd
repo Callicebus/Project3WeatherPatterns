@@ -1,6 +1,6 @@
 ---
 title: "Project 3 - GLMM"
-author: "Silvy van Kuijk"
+authors: "Silvy van Kuijk and Tony Di Fiore"
 date: "4/7/2021"
 output: html_document
 ---
@@ -11,9 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Setup
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+This R Markdown document contains the R script that 
 
 ```{r}
 setwd('C:/Users/Silvy/Documents/R/Repos/Project3WeatherPatterns')
@@ -25,26 +23,16 @@ library(tidyverse)
 
 ```
 
-## Preparing Dataset
-
-```{r}
-# Step 1: Correct duration data -> from minutes and seconds since midnight to seconds.
-
-
-# Maybe something like this? Can't quite get it to work...
-# Acoustic_Data$CallDuration <- as_date(parse_date_time2(Acoustic_Data$CallDuration, orders = "hms", tz = "America/Bogota"))
-# Acoustic_Data$DurationInSec <- dseconds(Acoustic_Data$CallDuration)
-
-
-```
-
 ## Transforming dataset into separate Titi and Howler datasets
 
 ```{r}
-data <- read.csv("Project3_Final_Data_per_Recording.csv")
-data <- mutate(data, Titis = ifelse(data$PrimateSpecies == "Titi", "True", "False"))
-data <- mutate(data, Howlers = ifelse(data$PrimateSpecies == "Howler", "True", "False"))
+HowlersInDay <- data %>% filter(Howlers == TRUE) %>% group_by(Date) %>% summarize(howlerCount = sum(Howlers), totalCallTime = sum(CallDurationInSec, na.rm = TRUE))
 
+TitisInDay <- data %>% filter(Titis == TRUE) %>% group_by(Date) %>% summarise(titiCount = sum(Titis), totalCallTime = sum(CallDurationInSec, na.rm = TRUE))
+
+```
+
+```{r}
 data_per_day <- data.frame(unique(data$Date))
 colnames(data_per_day) <- "Date"
 
