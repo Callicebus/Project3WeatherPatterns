@@ -1,4 +1,4 @@
-Analyst,File Name,Recording Date,"Recording Location, (Plot + marker)",Primate species,Call onset,Call duration,Call completion,Call distance,Rain,Undergrads' comments,Silvy's comments
+Analyst,FileName,RecordingDate,RecordingLocation,PrimateSpecies,CallOnset,CallDuration,CallCompletion,CallDistance,Rain,UndergradsComments,SilvyComments
 Andy Zhou,HARPIA_20130213_060000,2/13/2013,"Harpia, 1,800",Howler,6:04:28,0:05:22,Complete,3,Dry,Howling is faint but appears to be a continous bout,"Nice data! Even thouht the howlers are at quite the distance, you can still fairly clearly see the call in th spectrogram and point out where the call starts/ends. Good!"
 Andy Zhou,HARPIA_20130213_061500,2/13/2013,"Harpia, 1,800",Howler,6:15:00,0:10:00,"Start, End",3,Dry,,
 Andy Zhou,HARPIA_20130213_063000,2/13/2013,"Harpia, 1,800",Howler,6:30:00,0:10:00,"Start, End",3,Dry,Howling is faint but appears to be a continous bout,
