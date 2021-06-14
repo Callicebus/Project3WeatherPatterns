@@ -25,7 +25,7 @@ library(tidyverse)
 ```{r}
 Acoustic <- "https://raw.githubusercontent.com/Callicebus/Project3WeatherPatterns/main/Project3_Final_Data_per_Recording.csv"
 Acoustic_Data <- read_csv(Acoustic, col_names = TRUE)
-
+Acoustic_Data$StartTime <- str_split_fixed(Acoustic_Data$FileName, "_",3)[,3]
 
 ```
 
@@ -49,6 +49,7 @@ Hourly_Weather_Data <- read_csv(Hourly, col_names = TRUE)
 
 #Step 2: Join file 1.2 to file 1.1
 ```{r}
+Acoustic_Data <- rename(Acoustic_Data, Date = RecordingDate)
 Acoustic_and_Lunar_Data <- left_join(Acoustic_Data, Lunar_Data, by = "Date")
 ```
 
@@ -62,7 +63,6 @@ Acoustic_and_Lunar_and_Overnight <- left_join(Acoustic_and_Lunar_Data, Overnight
 
 # Step 4: Join file 1.4 to file 1.1 - Code Witten by Tony Di Fiore.
 ```{r}
-#Using read_csv rather than read.csv, I now get incorrect date/times for roundDateTime with this code below.
 Acoustic_and_Lunar_and_Overnight <- 
   Acoustic_and_Lunar_and_Overnight %>%
   mutate(Date2 = parse_date_time(Date, orders = c("mdy")),
@@ -80,7 +80,6 @@ Hourly_Weather_Data <- Hourly_Weather_Data %>%
   select(-c(Date2, Time2)) %>%
   mutate(roundDateTime = round_date(dt, unit = "hour"))
 
-#Something goes wrong here somewhere along the line. Not all Temp and Humidity data gets joined correctly. Not sure why.
 Complete_Data <- left_join(Acoustic_and_Lunar_and_Overnight, Hourly_Weather_Data[ , c("roundDateTime", "Celsius", "Humidity")], by = "roundDateTime")
 ```
 
@@ -100,18 +99,21 @@ Complete_Data$CallDurationInSec <- minute(Complete_Data$CallDuration) * 60 + sec
 # Step 7: Let's create 2 separate datasets that summarize data per day for each of the species.
 ```{r}
 HowlersInDay <- Complete_Data %>% filter(Howlers == TRUE) %>% group_by(Date) %>% dplyr::summarize(HowlerCount = sum(Howlers), TotalCallTime = sum(CallDurationInSec, na.rm = TRUE))
-
 HowlersInDay <- left_join(Lunar_Data, HowlersInDay, by = "Date")
-
 HowlersInDay$HowlerCount[is.na(HowlersInDay$HowlerCount)] <- 0
-
+HowlersInDay$TotalCallTime[is.na(HowlersInDay$TotalCallTime)] <- 0
 HowlersInDay <- left_join(HowlersInDay, Overnight_Temperatures, by = "Date")
 HowlersInDay$Year <- format(as.Date(HowlersInDay$Date, format="%m/%d/%Y"),"%Y")
 
-TitisInDay <- Complete_Data %>% filter(Titis == TRUE) %>% group_by(Date) %>% summarise(titiCount = sum(Titis), totalCallTime = sum(CallDurationInSec, na.rm = TRUE))
+TitisInDay <- Complete_Data %>% filter(Titis == TRUE) %>% group_by(Date) %>% summarise(TitiCount = sum(Titis), TotalCallTime = sum(CallDurationInSec, na.rm = TRUE))
+TitisInDay <- left_join(Lunar_Data, TitisInDay, by = "Date")
+
+TitisInDay$TitiCount[is.na(TitisInDay$TitiCount)] <- 0
+TitisInDay$TotalCallTime[is.na(TitisInDay$TotalCallTime)] <- 0
+
+TitisInDay <- left_join(TitisInDay, Overnight_Temperatures, by = "Date")
+TitisInDay$Year <- format(as.Date(TitisInDay$Date, format="%m/%d/%Y"),"%Y")
+```
 
 
-
-#Dates_Lunar_Overnight <- semi_join(Dates_Lunar_Overnight, data[ , c("Titis")], by = "Date", copy = TRUE)
-#write.csv(Complete_Data, "Project3_Final_Data_per_Recording.csv",na="NA",row.names=TRUE)
 
