@@ -13,7 +13,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ```{r}
-#setwd('C:/Users/Silvy/Documents/R/Repos/Project3WeatherPatterns')
 library(dplyr)
 library(lubridate)
 library(stringr)
@@ -24,8 +23,10 @@ library(tidyverse)
 
 # 1.1 - Load in main data
 ```{r}
-Acoustic <- "https://raw.githubusercontent.com/Callicebus/Project3WeatherPatterns/main/Project3-Main_Data_Sheet.csv"
+Acoustic <- "https://raw.githubusercontent.com/Callicebus/Project3WeatherPatterns/main/Project3_Final_Data_per_Recording.csv"
 Acoustic_Data <- read_csv(Acoustic, col_names = TRUE)
+
+
 ```
 
 # 1.2 - Load in lunar phase data
@@ -83,6 +84,8 @@ Hourly_Weather_Data <- Hourly_Weather_Data %>%
 Complete_Data <- left_join(Acoustic_and_Lunar_and_Overnight, Hourly_Weather_Data[ , c("roundDateTime", "Celsius", "Humidity")], by = "roundDateTime")
 ```
 
+The first data set is now complete. This shows us all data available per recording. Next, we need a data file that summarized the data per day.
+
 # Step 5: Splitting 'PrimateSpecies' column into a 'Titi' and 'Howler' column
 ```{r}
 Complete_Data <- mutate(Complete_Data, Titis = ifelse(PrimateSpecies == "Titi", TRUE, FALSE))
@@ -110,8 +113,5 @@ TitisInDay <- Complete_Data %>% filter(Titis == TRUE) %>% group_by(Date) %>% sum
 
 
 #Dates_Lunar_Overnight <- semi_join(Dates_Lunar_Overnight, data[ , c("Titis")], by = "Date", copy = TRUE)
-#write.csv(Dates_Lunar_Overnight, "ForMayFourteen.csv",na="NA",row.names=TRUE)
-
-
-#write.csv(Complete_Date, "Project3_Final_Data_per_Recording.csv",na="NA",row.names=TRUE)
+#write.csv(Complete_Data, "Project3_Final_Data_per_Recording.csv",na="NA",row.names=TRUE)
 
