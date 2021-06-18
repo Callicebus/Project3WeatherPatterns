@@ -37,14 +37,15 @@ Data$TimeDiff <- difftime(Data$CallOnset, Data$StartTime, units="secs")
 ```
 
 ## Step 2: If TimeDiff is >70 seconds, then find accompanying recording on external hard drive.
-### Files are stored here: D:/John_Blake_Data/Harpia 2013
+Files are stored here: D:/John_Blake_Data/Harpia 2013
+Then, calculate broadband SPL in 60 seconds before onset of call (time in CallOnset column)
 
 ```{r}
 Data$FileName <- paste0(Data$FileName, ".csv")
 
 if (Data$TimeDiff > 70){
   readWave(filename, from = 1, to = 60, 
-    units = c("seconds"), header = FALSE, toWaveMC = NULL)
+    units = c("seconds"), header = TRUE)
   
 } 
 
