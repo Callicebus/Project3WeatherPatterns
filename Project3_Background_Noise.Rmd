@@ -1,0 +1,59 @@
+---
+title: "Project3_Background_Noise"
+author: "Silvy van Kuijk & Tony Di Fiore"
+date: "6/15/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Calculating Background Noise SPL levels for acoustic files
+
+## Step 0: Load in Packages & Files
+
+```{r}
+library(tidyverse)
+library(lubridate)
+library(stringr)
+library(tuneR)
+library(seewave)
+source('PAMGuide.R')
+
+Data <- read_csv("https://raw.githubusercontent.com/Callicebus/Project3WeatherPatterns/main/Project3_Final_Data_per_Recording.csv", col_names = TRUE)
+```
+
+## Step 1: Does the row in the .csv file contains a primate call with a start time of 1 minute or more after start time of recording?
+
+```{r}
+Data$StartTime <- str_split_fixed(Data$FileName, "_",3)[,3] #Pull the start time of the recording out of the file name.
+Data$StartTime <- parse_date_time(Data$StartTime, "HMS")
+Data$CallOnset <- parse_date_time(Data$CallOnset, "HMS")
+
+Data$TimeDiff <- difftime(Data$CallOnset, Data$StartTime, units="secs")
+
+
+```
+
+## Step 2: If TimeDiff is >70 seconds, then find accompanying recording on external hard drive.
+### Files are stored here: D:/John_Blake_Data/Harpia 2013
+
+```{r}
+Data$FileName <- paste0(Data$FileName, ".csv")
+
+if (Data$TimeDiff > 70){
+  readWave(filename, from = 1, to = 60, 
+    units = c("seconds"), header = FALSE, toWaveMC = NULL)
+  
+} 
+
+
+```
+
+## Step 3: Calculate background noise level (0-8 kHz and 0-2 kHz) and add it to the .csv file
+
+```{r}
+
+```
+
