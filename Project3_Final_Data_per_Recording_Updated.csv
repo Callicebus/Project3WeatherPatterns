@@ -1,4 +1,5 @@
 Analyst,FileName,Date,RecordingLocation,PrimateSpecies,CallOnset,CallDuration,CallCompletion,CallDistance,Rain,UndergradComments,SilvyComments
+TEST,HARPIA_20130212_090000,2/12/2013,,Howler,9:03:30,0:01:00,,,,,NOT an actual data point! REMOVE before final analysis!
 Silvy van Kuijk,HARPIA_20130223_054500,2/23/2013,"Harpia, 1, -50",None,,,,,Dry,,
 Silvy van Kuijk,HARPIA_20130223_060000,2/23/2013,"Harpia, 1, -50",None,,,,,Drizzle,,
 Silvy van Kuijk,HARPIA_20130223_061500,2/23/2013,"Harpia, 1, -50",None,,,,,Dry,,
