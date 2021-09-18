@@ -17,27 +17,35 @@ library(dplyr)
 library(lubridate)
 library(stringr)
 library(tidyverse)
+library(lunar)
 ```
 
 #Step 1: Load in data files.
 
 # 1.1 - Load in main data
 ```{r}
-Acoustic <- "https://raw.githubusercontent.com/Callicebus/Project3WeatherPatterns/main/Project3_Final_Data_per_Recording.csv"
-Acoustic_Data <- read_csv(Acoustic, col_names = TRUE)
+setwd('C:/Users/Silvy/Documents/R/Repos/Project3WeatherPatterns')
+#Acoustic <- "https://raw.githubusercontent.com/Callicebus/Project3WeatherPatterns/main/Project3_Final_Data_per_Recording.csv"
+Acoustic_Data <- read_csv("Project3_DataSheet_20210916.csv", col_names = TRUE)
+
 Acoustic_Data$StartTime <- str_split_fixed(Acoustic_Data$FileName, "_",3)[,3]
+Acoustic_Data$Date <- as.Date(mdy(Acoustic_Data$Date))
+
 
 ```
 
 # 1.2 - Load in lunar phase data
 ```{r}
 Lunar <- "https://raw.githubusercontent.com/Callicebus/Project3WeatherPatterns/main/Johnblake_dates_with_phase.csv" 
-Lunar_Data <- read_csv(Lunar, col_names = TRUE)
+Lunar_Data <- read_csv("Johnblake_dates_with_phase_updated.csv", col_names = TRUE)
+Lunar_Data$Date <- as.Date(mdy(Lunar_Data$Date))
+Lunar_Data$LunarPhase <- lunar.phase(Lunar_Data$Date, name = TRUE)
 ```
 
 # 1.3 - Load in temperature data - overnight averages
 ```{r}
 Overnight <- "https://raw.githubusercontent.com/Callicebus/Project3WeatherPatterns/main/overnight_temperatures.csv"
+Overnight_Temperatures <- read_csv("overnight_temperatures.csv", col_names = TRUE)
 Overnight_Temperatures <- read_csv(Overnight, col_names = TRUE)
 ```
 
@@ -45,11 +53,11 @@ Overnight_Temperatures <- read_csv(Overnight, col_names = TRUE)
 ```{r}
 Hourly <- "https://raw.githubusercontent.com/Callicebus/Project3WeatherPatterns/main/WeatherDataPerHour.csv"
 Hourly_Weather_Data <- read_csv(Hourly, col_names = TRUE)
+Hourly_Weather_Data <- read_csv("WeatherDataPerHour.csv", col_names = TRUE)
 ```
 
 #Step 2: Join file 1.2 to file 1.1
 ```{r}
-Acoustic_Data <- rename(Acoustic_Data, Date = RecordingDate)
 Acoustic_and_Lunar_Data <- left_join(Acoustic_Data, Lunar_Data, by = "Date")
 ```
 
@@ -58,6 +66,8 @@ Acoustic_and_Lunar_Data <- left_join(Acoustic_Data, Lunar_Data, by = "Date")
 colnames(Overnight_Temperatures)[colnames(Overnight_Temperatures) == 'today'] <- 'Date'
 Overnight_Temperatures <- Overnight_Temperatures %>% 
   select(Date, today_average, lastnight_average, lastnight_min) 
+Overnight_Temperatures$Date <- as.Date(mdy(Overnight_Temperatures$Date))
+
 Acoustic_and_Lunar_and_Overnight <- left_join(Acoustic_and_Lunar_Data, Overnight_Temperatures, by = "Date")
 ```
 
@@ -65,7 +75,7 @@ Acoustic_and_Lunar_and_Overnight <- left_join(Acoustic_and_Lunar_Data, Overnight
 ```{r}
 Acoustic_and_Lunar_and_Overnight <- 
   Acoustic_and_Lunar_and_Overnight %>%
-  mutate(Date2 = parse_date_time(Date, orders = c("mdy")),
+  mutate(Date2 = parse_date_time(Date, orders = c("Ymd")),
          hh = str_sub(`StartTime`,1,2),
          mm = str_sub(`StartTime`,3,4),
          ss = str_sub(`StartTime`,5,6),
@@ -74,7 +84,7 @@ Acoustic_and_Lunar_and_Overnight <-
   mutate(roundDateTime = round_date(dt, unit = "hour"))
 
 Hourly_Weather_Data <- Hourly_Weather_Data %>%
-  mutate(Date2 = parse_date_time(Date, orders = c("mdy")),
+  mutate(Date2 = parse_date_time(Date, orders = c("mdY")),
          Time2 = parse_date_time(Time, orders = c("HMS")),
          dt = make_datetime(year=year(Date2), month=month(Date2), day=day(Date2), hour = hour(Time2), min = minute(Time2), sec = second(Time2))) %>%
   select(-c(Date2, Time2)) %>%
@@ -96,7 +106,13 @@ Complete_Data <- mutate(Complete_Data, Howlers = ifelse(PrimateSpecies == "Howle
 Complete_Data$CallDurationInSec <- minute(Complete_Data$CallDuration) * 60 + second(Complete_Data$CallDuration)
 ```
 
-# Step 7: Let's create 2 separate datasets that summarize data per day for each of the species.
+#Step 7: Create a Year variable
+```{r}
+Complete_Data$Year <- format(as.Date(Complete_Data$Date, format="%m/%d/%Y"),"%Y")
+
+```
+
+# Step 8: Let's create 2 separate datasets that summarize data per day for each of the species.
 ```{r}
 HowlersInDay <- Complete_Data %>% filter(Howlers == TRUE) %>% group_by(Date) %>% dplyr::summarize(HowlerCount = sum(Howlers), TotalCallTime = sum(CallDurationInSec, na.rm = TRUE))
 HowlersInDay <- left_join(Lunar_Data, HowlersInDay, by = "Date")
@@ -115,5 +131,15 @@ TitisInDay <- left_join(TitisInDay, Overnight_Temperatures, by = "Date")
 TitisInDay$Year <- format(as.Date(TitisInDay$Date, format="%m/%d/%Y"),"%Y")
 ```
 
+
+Write datafiles
+```{r}
+write.csv(Complete_Data,"Complete_Data_Per_File_20210917.csv",na="NA",row.names=TRUE)
+
+write.csv(HowlersInDay,"Howler_Data_Per_Day_20210917.csv",na="NA",row.names=TRUE)
+
+write.csv(TitisInDay,"Titi_Data_Per_Day_20210917.csv",na="NA",row.names=TRUE)
+
+```
 
 

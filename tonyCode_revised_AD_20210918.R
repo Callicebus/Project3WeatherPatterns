@@ -3,10 +3,10 @@ library(lubridate)
 library(tuneR)
 library(dplyr)
 
-#Data <- read_csv("https://raw.githubusercontent.com/Callicebus/Project3WeatherPatterns/main/Project3_Final_Data_per_Recording.csv", col_names = TRUE)
+Data <- read_csv("https://raw.githubusercontent.com/Callicebus/Project3WeatherPatterns/main/Project3_DataSheet_20210916.csv", col_names = TRUE)
 
 #setwd('C:/Users/Silvy/Documents/R/Repos/Project3WeatherPatterns')
-Data <- read_csv("Project3_DataSheet_20210916.csv", col_names = TRUE)
+#Data <- read_csv("Project3_DataSheet_20210916.csv", col_names = TRUE)
 
 Data$StartTime <- str_split_fixed(Data$FileName, "_",3)[,3] #Pull the start time of the recording out of the file name.
 Data$StartTime <- parse_date_time(Data$StartTime, "HMS")
