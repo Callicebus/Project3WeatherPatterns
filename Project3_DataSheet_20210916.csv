@@ -1,0 +1,1334 @@
+Analyst,FileName,Date,RecordingLocation,PrimateSpecies,CallOnset,CallDuration,CallCompletion,CallDistance,Rain,MicUsed,UndergradComments,SilvyComments
+Silvy van Kuijk,HARPIA_20130223_054500,2/23/2013,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130223_060000,2/23/2013,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130223_061500,2/23/2013,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130223_063000,2/23/2013,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130223_064500,2/23/2013,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130223_070000,2/23/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130223_071500,2/23/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130223_073000,2/23/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130223_074500,2/23/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130223_080000,2/23/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130224_054500,2/24/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130224_060000,2/24/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130224_061500,2/24/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130224_063000,2/24/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130224_064500,2/24/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130224_070000,2/24/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130224_071500,2/24/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130224_073000,2/24/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130224_074500,2/24/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130224_080000,2/24/2013,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130225_054500,2/25/2013,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130225_060000,2/25/2013,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130225_061500,2/25/2013,"Harpia, 1, -50",Howler ,6:15:00,0:10:00,"Start, End",3,Dry,1,,"Howlers sang shortly before rain (5 minute window). Complete capuchin call at 06:15:45, lasts 2 seconds, distance score 3."
+Silvy van Kuijk,HARPIA_20130225_063000,2/25/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130225_064500,2/25/2013,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130225_070000,2/25/2013,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130225_071500,2/25/2013,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130225_073000,2/25/2013,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130225_074500,2/25/2013,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130225_080000,2/25/2013,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130226_054500,2/26/2013,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130226_060000,2/26/2013,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130226_061500,2/26/2013,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130226_063000,2/26/2013,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130226_064500,2/26/2013,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130226_070000,2/26/2013,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130226_071500,2/26/2013,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130226_073000,2/26/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130226_074500,2/26/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130226_080000,2/26/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130227_054500,2/27/2013,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130227_060000,2/27/2013,"Harpia, 1, -50",None,,,,,Dry,1,,Someone walks by 6:30 into recording.
+Silvy van Kuijk,HARPIA_20130227_061500,2/27/2013,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130227_063000,2/27/2013,"Harpia, 1, -50",None,,,,,Drizzle,1,,"Series of 2 complete capuchin loud calls, pretty faint distance 3, starting at 06:36:30, lasts 6 seconds. Series of 3 short capuchin loud calls, starting at 06:39:44, lasts 11 seconds, distance 3."
+Silvy van Kuijk,HARPIA_20130227_064500,2/27/2013,"Harpia, 1, -50",None,,,,,Drizzle,1,,"Single capuchin monkey loud call, starts at 06:49:18, lasts 2 seconds, distance 3."
+Silvy van Kuijk,HARPIA_20130227_070000,2/27/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130227_071500,2/27/2013,"Harpia, 1, -50",None,,,,,Rain,1,,Right microphone has water damage that's getting pretty bad at this point. Has been slowly getting worse for last 3 days or so.
+Silvy van Kuijk,HARPIA_20130227_073000,2/27/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130227_074500,2/27/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130227_080000,2/27/2013,"Harpia, 1, -50",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20130213_054500,2/13/2013,"Harpia, 1,400",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20130213_060000,2/13/2013,"Harpia, 1,400",Howler ,6:00:00,0:03:51,Start,4,Drizzle,1,This sounds like a very distant group of howlers,"Also, be mindful of 'maybe howlers' data. Vague data adds a lot of uncertainty to our data set, making resuls highly unreliable. "
+Anna Kurtin,HARPIA_20130213_060000,2/13/2013,"Harpia, 1,400",Howler ,6:04:50,0:05:10,End,2,Drizzle,1,These howlers are much closer than the ones from earlier in the recording ,
+Anna Kurtin,HARPIA_20130213_061500,2/13/2013,"Harpia, 1,400",Howler ,6:15:00,0:10:00,"Start, End",2,Drizzle,1,The howlers briefly stop for ~15 s but this was counted as part of the same bout,
+Anna Kurtin,HARPIA_20130213_063000,2/13/2013,"Harpia, 1,400",Howler ,6:30:00,0:10:00,"Start, End",2,Drizzle,1,The howlers briefly stop for ~15 s but this was counted as part of the same bout,
+Anna Kurtin,HARPIA_20130213_064500,2/13/2013,"Harpia, 1,400",Howler ,6:45:00,0:10:00,"Start, End",3,Drizzle,1,Howling had breif (~10 to ~15 s pauses) but was counted as part of the same bout,
+Anna Kurtin,HARPIA_20130213_070000,2/13/2013,"Harpia, 1,400",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20130213_071500,2/13/2013,"Harpia, 1,400",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20130213_073000,2/13/2013,"Harpia, 1,400",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20130213_073000,2/13/2013,"Harpia, 1,400",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20130213_074500,2/13/2013,"Harpia, 1,400",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20130213_080000,2/13/2013,"Harpia, 1,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130215_054500,2/15/2013,"Harpia, 2,200",Howler,5:45:00,0:10:00,"Start, End",3,Dry,1,,Set of four interesting calls from 5:10 to 5:30. No idea what it could be. Owl?
+Silvy van Kuijk,HARPIA_20130215_060000,2/15/2013,"Harpia, 2,200",Howler,6:00:00,0:10:00,"Start, End",3,Dry,1,,
+Silvy van Kuijk,HARPIA_20130215_061500,2/15/2013,"Harpia, 2,200",Howler,6:15:00,0:09:40,Start,4,Dry,1,,Howlers stop close to 06:30:00 rain starts around 07:00:00.
+Silvy van Kuijk,HARPIA_20130215_063000,2/15/2013,"Harpia, 2,200",None,,,,,Dry,1,,"I can hear something move through trees about 5:30 in, but hear no primate calls."
+Silvy van Kuijk,HARPIA_20130215_064500,2/15/2013,"Harpia, 2,200",None,,,,,Dry,1,,"Pretty cool recording. First insect calls start picking up, then wind comes in. Pretty sure I'll find rain in one of the next recordings!"
+Silvy van Kuijk,HARPIA_20130215_070000,2/15/2013,"Harpia, 2,200",None,,,,,Rain,1,,"Already raining at start of recording, rain gets intense at 7:10 min into recording."
+Silvy van Kuijk,HARPIA_20130215_071500,2/15/2013,"Harpia, 2,200",None,,,,,Rain,1,,Thunder at 08:00 min.
+Silvy van Kuijk,HARPIA_20130215_073000,2/15/2013,"Harpia, 2,200",None,,,,,Rain,1,,"Rain is getting lighter, can hear some birds again. Thunder at 09:30"
+Silvy van Kuijk,HARPIA_20130215_074500,2/15/2013,"Harpia, 2,200",None,,,,,Rain,1,,"Light rain now, still at least 5 or 6 bouts of thunder sounds further away"
+Silvy van Kuijk,HARPIA_20130215_080000,2/15/2013,"Harpia, 2,200",Howler,8:01:10,0:08:38,Complete,3,Drizzle,1,,"Sounds more like short outs of howling, not one long one."
+Silvy van Kuijk,HARPIA_20130216_054500,2/16/2013,"Harpia, 2,200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130216_060000,2/16/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130216_061500,2/16/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130216_063000,2/16/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,"Some thunder in the distance, faint."
+Silvy van Kuijk,HARPIA_20130216_064500,2/16/2013,"Harpia, 2,200",None,,,,,Rain,1,,"Rain sets in quikly 4:20 into recording, gets heavy fast. Little frogs start vocalizing as soon as rain kicks in."
+Silvy van Kuijk,HARPIA_20130216_070000,2/16/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130216_071500,2/16/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130216_073000,2/16/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130216_074500,2/16/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130216_080000,2/16/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130217_054500,2/17/2013,"Harpia, 2,200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130217_060000,2/17/2013,"Harpia, 2,200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130217_061500,2/17/2013,"Harpia, 2,200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130217_063000,2/17/2013,"Harpia, 2,200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130217_064500,2/17/2013,"Harpia, 2,200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130217_070000,2/17/2013,"Harpia, 2,200",None,,,,,Dry,1,,Thick bad of energy at bottom of spectrogram. Perhap generator from oil station 5 km away?
+Silvy van Kuijk,HARPIA_20130217_071500,2/17/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,"Yeah, sounds like you can ear the oil station generator. Takes up 150 Hz. "
+Silvy van Kuijk,HARPIA_20130217_073000,2/17/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,Still 150 Hz band of noise from oil station generator.
+Silvy van Kuijk,HARPIA_20130217_074500,2/17/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,Oil generator noise still visible
+Silvy van Kuijk,HARPIA_20130217_080000,2/17/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,Oil generator noise still visible
+Silvy van Kuijk,HARPIA_20130218_054500,2/18/2013,"Harpia, 2,200",None,,,,,Rain,1,,"Oil generator noise visible, bottom 150 HZ"
+Silvy van Kuijk,HARPIA_20130218_060000,2/18/2013,"Harpia, 2,200",None,,,,,Rain,1,,"Oil generator noise visible, bottom 150 HZ"
+Silvy van Kuijk,HARPIA_20130218_061500,2/18/2013,"Harpia, 2,200",None,,,,,Rain,1,,"Oil generator noise visible, bottom 150 HZ"
+Silvy van Kuijk,HARPIA_20130218_063000,2/18/2013,"Harpia, 2,200",None,,,,,Rain,1,,"Oil generator noise visible, bottom 150 HZ"
+Silvy van Kuijk,HARPIA_20130218_064500,2/18/2013,"Harpia, 2,200",None,,,,,Rain,1,,"Oil generator noise visible, bottom 150 HZ"
+Silvy van Kuijk,HARPIA_20130218_070000,2/18/2013,"Harpia, 2,200",None,,,,,Rain,1,,"Oil generator noise visible, bottom 150 HZ"
+Silvy van Kuijk,HARPIA_20130218_071500,2/18/2013,"Harpia, 2,200",None,,,,,Rain,1,,"Oil generator noise visible, bottom 150 HZ"
+Silvy van Kuijk,HARPIA_20130218_073000,2/18/2013,"Harpia, 2,200",None,,,,,Rain,1,,"Oil generator noise visible, bottom 150 HZ"
+Silvy van Kuijk,HARPIA_20130218_074500,2/18/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,"Oil generator noise visible, bottom 150 HZ"
+Silvy van Kuijk,HARPIA_20130218_080000,2/18/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,"Oil generator noise visible, bottom 150 HZ"
+Silvy van Kuijk,HARPIA_20130219_054500,2/19/2013,"Harpia, 2,200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130219_060000,2/19/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130219_061500,2/19/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130219_063000,2/19/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130219_064500,2/19/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130219_070000,2/19/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130219_071500,2/19/2013,"Harpia, 2,200",None,,,,,Rain,1,,Rain slowly gets heavier throughout file.
+Silvy van Kuijk,HARPIA_20130219_073000,2/19/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130219_074500,2/19/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130219_080000,2/19/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_054500,2/20/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_060000,2/20/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_061500,2/20/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_063000,2/20/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_064500,2/20/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_070000,2/20/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_071500,2/20/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_073000,2/20/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_074500,2/20/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_080000,2/20/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130221_054500,2/21/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130221_060000,2/21/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,Light rain
+Silvy van Kuijk,HARPIA_20130221_061500,2/21/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,"Woollies screaming at 4:10, but those are not part of the protocol."
+Silvy van Kuijk,HARPIA_20130221_063000,2/21/2013,"Harpia, 2,200",None,,,,,Rain,1,,"No howlers before the rain, but I did hear woollies and capuchins in previous file."
+Silvy van Kuijk,HARPIA_20130221_064500,2/21/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130221_070000,2/21/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130221_071500,2/21/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130221_073000,2/21/2013,"Harpia, 2,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130221_074500,2/21/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130221_080000,2/21/2013,"Harpia, 2,200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130222_054500,2/22/2013,"Harpia, 2, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130222_060000,2/22/2013,"Harpia, 2, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130222_061500,2/22/2013,"Harpia, 2, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130222_063000,2/22/2013,"Harpia, 2, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130222_064500,2/22/2013,"Harpia, 2, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130222_070000,2/22/2013,"Harpia, 2, 200",None,,,,,Drizzle,1,,"I can hear movement in the trees, but no vocalizations"
+Silvy van Kuijk,HARPIA_20130222_071500,2/22/2013,"Harpia, 2, 200",None,,,,,Drizzle,1,,Capuchins and squirrel monkeys are passing by the recorder! At 6:10 a monkey climbs on/over the recorder. At 6:45 there are some cool calls. Four grunts starting at 7:47.
+Silvy van Kuijk,HARPIA_20130222_073000,2/22/2013,"Harpia, 2, 200",None,,,,,Drizzle,1,,I can hear a clear low-frequency sound in the background. Helicopter? Few minutes later some macaws seem to land in a tree nearby. Vocalizing LOUD!
+Silvy van Kuijk,HARPIA_20130222_074500,2/22/2013,"Harpia, 2, 200",None,,,,,Dry,1,,Spider monkey alarm calls for several minutes straight. 
+Silvy van Kuijk,HARPIA_20130222_080000,2/22/2013,"Harpia, 2, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130214_054500,2/14/2013,"Harpia, 1, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130214_060000,2/14/2013,"Harpia, 1, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130214_061500,2/14/2013,"Harpia, 1, 400",None,,,,,Dry,1,,"Beautiful recording! So much going on, all perfectly separated acoustic niches in time or frequency range. "
+Silvy van Kuijk,HARPIA_20130214_063000,2/14/2013,"Harpia, 1, 400",None,,,,,Dry,1,,Spider or woolly alarm calls in last minute or two of recording.
+Silvy van Kuijk,HARPIA_20130214_064500,2/14/2013,"Harpia, 1, 400",None,,,,,Dry,1,,Still spider or woolly alarm calls in distance.
+Silvy van Kuijk,HARPIA_20130214_070000,2/14/2013,"Harpia, 1, 400",None,,,,,Dry,1,,You can hear a boat pass in the distance.
+Silvy van Kuijk,HARPIA_20130214_071500,2/14/2013,"Harpia, 1, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130214_073000,2/14/2013,"Harpia, 1, 400",None,,,,,Dry,1,,Woolly scream at the last 2 seconds
+Silvy van Kuijk,HARPIA_20130214_074500,2/14/2013,"Harpia, 1, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130214_080000,2/14/2013,"Harpia, 1, 400",None,,,,,Dry,1,,Woolly calls from 3:14 to 3:20
+Silvy van Kuijk,HARPIA_20130215_054500,2/15/2013,"Harpia, 4, 200",Howler,5:45:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20130215_060000,2/15/2013,"Harpia, 4, 200",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,Can hear something large move through trees. 
+Silvy van Kuijk,HARPIA_20130215_061500,2/15/2013,"Harpia, 4, 200",Howler,6:15:00,0:10:00,"Start, End",4,Dry,1,,This spider monkey loud call is followed by something softer. A whinny?
+Silvy van Kuijk,HARPIA_20130215_063000,2/15/2013,"Harpia, 4, 200",None,,,,,Dry,1,,Some woolly calls at 1:13.
+Silvy van Kuijk,HARPIA_20130215_064500,2/15/2013,"Harpia, 4, 200",Howler,6:54:04,0:00:09,Complete,3,Dry,1,,Wind picks up at last 1/3 of recording. Short howler roar of 9 seconds towards the end of recording.
+Silvy van Kuijk,HARPIA_20130215_070000,2/15/2013,"Harpia, 4, 200",None,,,,,Rain,1,,Thunder at 07:18
+Silvy van Kuijk,HARPIA_20130215_071500,2/15/2013,"Harpia, 4, 200",None,,,,,Rain,1,,Thunder at 7:31
+Silvy van Kuijk,HARPIA_20130215_073000,2/15/2013,"Harpia, 4, 200",None,,,,,Rain,1,,Thunder at 9:09
+Silvy van Kuijk,HARPIA_20130215_074500,2/15/2013,"Harpia, 4, 200",None,,,,,Rain,1,,"Thunder at 1:30, 2:50, 4:07, 4:55. I think I hear howlers while ot rains too, really far away."
+Silvy van Kuijk,HARPIA_20130215_080000,2/15/2013,"Harpia, 4, 200",Howler,8:00:42,0:09:18,End,3,Rain,1,,
+Silvy van Kuijk,HARPIA_20130216_054500,2/16/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130216_060000,2/16/2013,"Harpia, 4, 200",Titi,6:00:04,0:03:00,Start,3,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130216_061500,2/16/2013,"Harpia, 4, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130216_063000,2/16/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,Some howlers really far away.
+Silvy van Kuijk,HARPIA_20130216_064500,2/16/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130216_070000,2/16/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130216_071500,2/16/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130216_073000,2/16/2013,"Harpia, 4, 200",None,,,,,Rain,1,,"Rain getting slightly less heavy, you can see some insect activity about 6 minutes in."
+Silvy van Kuijk,HARPIA_20130216_074500,2/16/2013,"Harpia, 4, 200",None,,,,,Rain,1,,Rain gets much heavier again.
+Silvy van Kuijk,HARPIA_20130216_080000,2/16/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130217_054500,2/17/2013,"Harpia, 4, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130217_060000,2/17/2013,"Harpia, 4, 200",None,,,,,Dry,1,,Capuchin call at 06:05:53
+Silvy van Kuijk,HARPIA_20130217_061500,2/17/2013,"Harpia, 4, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130217_063000,2/17/2013,"Harpia, 4, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130217_064500,2/17/2013,"Harpia, 4, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130217_070000,2/17/2013,"Harpia, 4, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130217_071500,2/17/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130217_073000,2/17/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130217_074500,2/17/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130217_080000,2/17/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130218_054500,2/18/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130218_060000,2/18/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130218_061500,2/18/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130218_063000,2/18/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130218_064500,2/18/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,Woollie monkey alarm calls in distance
+Silvy van Kuijk,HARPIA_20130218_070000,2/18/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,"Woollie monkey alarm calls, not too far away. At 4:38 good for analysis?"
+Silvy van Kuijk,HARPIA_20130218_071500,2/18/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130218_073000,2/18/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,Woollies near recorder
+Silvy van Kuijk,HARPIA_20130218_074500,2/18/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130218_080000,2/18/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130219_054500,2/19/2013,"Harpia, 4, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130219_060000,2/19/2013,"Harpia, 4, 200",Titi,6:03:33,0:01:27,Complete,3,Drizzle,1,,"First four burst gobbles, fourth one immediately followed by short duet potentially from another group! Thunder in distance at 06:52"
+Silvy van Kuijk,HARPIA_20130219_061500,2/19/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,Thunder at 08:08
+Silvy van Kuijk,HARPIA_20130219_063000,2/19/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130219_064500,2/19/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130219_070000,2/19/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130219_071500,2/19/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130219_073000,2/19/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130219_074500,2/19/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130219_080000,2/19/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_054500,2/20/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_060000,2/20/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_061500,2/20/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_063000,2/20/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_064500,2/20/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_070000,2/20/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_071500,2/20/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_073000,2/20/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_074500,2/20/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130220_080000,2/20/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130221_054500,2/21/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130221_060000,2/21/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130221_061500,2/21/2013,"Harpia, 4, 200",None,,,,,Rain,1,,Some serious woolly monkey screaming going on at 3:45.
+Silvy van Kuijk,HARPIA_20130221_063000,2/21/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130221_064500,2/21/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130221_070000,2/21/2013,"Harpia, 4, 200",None,,,,,Rain,1,,Woolly chirps. They must be resting right above recorder.
+Silvy van Kuijk,HARPIA_20130221_071500,2/21/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130221_073000,2/21/2013,"Harpia, 4, 200",None,,,,,Rain,1,,Nice woolly trill at 4:10
+Silvy van Kuijk,HARPIA_20130221_074500,2/21/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130221_080000,2/21/2013,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130222_054500,2/22/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130222_060000,2/22/2013,"Harpia, 4, 200",Titi,6:01:10,0:00:50,Complete,3,Drizzle,1,,Series of four BG's.
+Silvy van Kuijk,HARPIA_20130222_061500,2/22/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,VERY clear noise from generator in bottom 200 Hz. Just after 1:00 someone walks by recorder. Likely John checking on recorders.
+Silvy van Kuijk,HARPIA_20130222_063000,2/22/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130222_064500,2/22/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130222_070000,2/22/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130222_071500,2/22/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130222_073000,2/22/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130222_074500,2/22/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,Recording starts with passing passing helicopter. Clear pattern up to 150 Hz. 
+Silvy van Kuijk,HARPIA_20130222_080000,2/22/2013,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130213_054500,2/13/2013,"Harpia, 5, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130213_060000,2/13/2013,"Harpia, 5, 800",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20130213_061500,2/13/2013,"Harpia, 5, 800",Howler,6:15:00,0:03:20,Start,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20130213_063000,2/13/2013,"Harpia, 5, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130213_064500,2/13/2013,"Harpia, 5, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130213_070000,2/13/2013,"Harpia, 5, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130213_071500,2/13/2013,"Harpia, 5, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130213_073000,2/13/2013,"Harpia, 5, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130213_074500,2/13/2013,"Harpia, 5, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130213_080000,2/13/2013,"Harpia, 5, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130214_054500,2/14/2013,"Harpia, 5, 800",Howler,5:54:31,0:00:29,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20130214_060000,2/14/2013,"Harpia, 5, 800",Howler,6:00:00,0:08:05,Start,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20130214_061500,2/14/2013,"Harpia, 5, 800",Howler,6:15:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20130214_063000,2/14/2013,"Harpia, 5, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130214_064500,2/14/2013,"Harpia, 5, 800",Howler,6:45:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20130214_070000,2/14/2013,"Harpia, 5, 800",Howler,7:07:38,0:02:22,End,4,Dry,1,,Unintelligable male voice heard (faint) at start recording
+Silvy van Kuijk,HARPIA_20130214_071500,2/14/2013,"Harpia, 5, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130214_073000,2/14/2013,"Harpia, 5, 800",Howler,7:30:00,0:00:45,Start,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20130214_074500,2/14/2013,"Harpia, 5, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130214_080000,2/14/2013,"Harpia, 5, 800",None,,,,,Dry,1,,Cool recording! Some early morning owls/toads/frogs perhaps?
+Silvy van Kuijk,HARPIA_20130211_054500,2/11/2013,"Harpia, 8, 600",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130211_060000,2/11/2013,"Harpia, 8, 600",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130211_061500,2/11/2013,"Harpia, 8, 600",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130211_063000,2/11/2013,"Harpia, 8, 600",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130211_064500,2/11/2013,"Harpia, 8, 600",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130211_070000,2/11/2013,"Harpia, 8, 600",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130211_071500,2/11/2013,"Harpia, 8, 600",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130211_073000,2/11/2013,"Harpia, 8, 600",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130211_074500,2/11/2013,"Harpia, 8, 600",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130211_080000,2/11/2013,"Harpia, 8, 600",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20130212_054500,2/12/2013,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130212_060000,2/12/2013,"Harpia, 8, 600",None,,,,,Dry,1,,Spectacular looking spectrogram! SO much activity above 1 kHz!
+Silvy van Kuijk,HARPIA_20130212_061500,2/12/2013,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130212_063000,2/12/2013,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130212_064500,2/12/2013,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130212_070000,2/12/2013,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130212_071500,2/12/2013,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130212_073000,2/12/2013,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130212_074500,2/12/2013,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130212_080000,2/12/2013,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20140206_054500,2/6/2014,"Harpia, 4, 200",Howler,5:53:12,0:01:33,Complete,4,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140206_054500,2/6/2014,"Harpia, 4, 200",Howler,5:59:45,0:00:15,End,2,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140206_060000,2/6/2014,"Harpia, 4, 200",Howler,6:00:00,0:10:00,"Start, End",2,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140206_061500,2/6/2014,"Harpia, 4, 200",Howler,6:15:00,0:02:20,Start,3,Drizzle,1,,Some woolly chirps at start
+Silvy van Kuijk,HARPIA_20140206_063000,2/6/2014,"Harpia, 4, 200",Howler,6:31:34,0:08:16,Complete,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20140206_064500,2/6/2014,"Harpia, 4, 200",Howler,6:45:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20140206_070000,2/6/2014,"Harpia, 4, 200",None,,,,,Dry,1,,Quiet woolly chirps close to recorder at 03:02. 
+Silvy van Kuijk,HARPIA_20140206_071500,2/6/2014,"Harpia, 4, 200",Howler,7:22:52,0:02:08,End,3,Dry,1,,"Still dry, but I hear rain coming in quickly! "
+Silvy van Kuijk,HARPIA_20140206_073000,2/6/2014,"Harpia, 4, 200",Howler,7:30:00,0:02:18,Start,3,Rain,1,,
+Silvy van Kuijk,HARPIA_20140206_073000,2/6/2014,"Harpia, 4, 200",Howler,7:35:03,0:01:36,Complete,2,Rain,1,,
+Silvy van Kuijk,HARPIA_20140206_074500,2/6/2014,"Harpia, 4, 200",None,,,,,Drizzle,1,,Beautiful example of thunder in spectrogram at 03:35
+Silvy van Kuijk,HARPIA_20140206_080000,2/6/2014,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20140207_054500,2/7/2014,"Harpia, 4, 200",Howler,5:49:15,0:05:45,End,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20140207_060000,2/7/2014,"Harpia, 4, 200",Howler,6:00:00,0:10:00,"Start, End",3,Dry,1,,
+Silvy van Kuijk,HARPIA_20140207_061500,2/7/2014,"Harpia, 4, 200",Howler,6:15:00,0:03:49,"Start, End",3,Dry,1,,Woollie chirps!
+Silvy van Kuijk,HARPIA_20140207_063000,2/7/2014,"Harpia, 4, 200",None,,,,,Dry,1,,"Woollies making soft trill calls nearby. Lots of vocal activity, cool spectrogram!"
+Silvy van Kuijk,HARPIA_20140207_064500,2/7/2014,"Harpia, 4, 200",None,,,,,Dry,1,,Woollies nearby
+Silvy van Kuijk,HARPIA_20140207_070000,2/7/2014,"Harpia, 4, 200",None,,,,,Dry,1,,Tamarins? Not sure. Also still occasional woollies.
+Silvy van Kuijk,HARPIA_20140207_071500,2/7/2014,"Harpia, 4, 200",Howler,7:15:48,0:09:12,End,3,Dry,1,,"Woollies still around. Howlers are pretty close, I'd say almost distance score 2. Hear boat pass in last minute of recording."
+Silvy van Kuijk,HARPIA_20140207_073000,2/7/2014,"Harpia, 4, 200",Howler,7:30:00,0:04:18,Start,3,Dry,1,,"Woollies still around, boat in second half of recording, off and on. "
+Silvy van Kuijk,HARPIA_20140207_074500,2/7/2014,"Harpia, 4, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20140207_080000,2/7/2014,"Harpia, 4, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20140208_054500,2/8/2014,"Harpia, 4, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140208_060000,2/8/2014,"Harpia, 4, 200",Howler,6:00:00,0:02:03,"Start, End",2,Rain,1,,"I actually think these are 2 or even 3 howler groups calling. I can hear one group in each channel. Howlers were calling upon start of file, but I think they keep calling once the rain is too powerful to see/hear."
+Silvy van Kuijk,HARPIA_20140208_061500,2/8/2014,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20140208_063000,2/8/2014,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20140208_064500,2/8/2014,"Harpia, 4, 200",Howler,6:47:06,0:06:34,"Start, End",3,Rain,1,,"I can hear howling through the rain, but only for a short period. Likely they started earlier and/or stopped later than I can make out in the rain."
+Silvy van Kuijk,HARPIA_20140208_070000,2/8/2014,"Harpia, 4, 200",Howler,7:00:00,0:10:00,"Start, End",3,Rain,1,,Howling during rain
+Silvy van Kuijk,HARPIA_20140208_071500,2/8/2014,"Harpia, 4, 200",Howler,7:15:58,0:09:02,End,4,Rain,1,,Howling during rain
+Silvy van Kuijk,HARPIA_20140208_073000,2/8/2014,"Harpia, 4, 200",Howler,,0:01:40,"Start, End",3,Rain,1,,"Rain gets much heavier, I can no longer hear the howlers above the intensity of the rain."
+Silvy van Kuijk,HARPIA_20140208_073000,2/8/2014,"Harpia, 4, 200",Howler,7:30:00,0:03:33,"Start, End",3,Rain,1,,Different group than previous calls. These are closer and I can still make out their call pattern on spectrogram even in heavy rain. They started before onset of recording and continue (?) in heavy rain.
+Silvy van Kuijk,HARPIA_20140208_074500,2/8/2014,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20140208_080000,2/8/2014,"Harpia, 4, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20140209_054500,2/9/2014,"Harpia, 4, 200",Howler,5:53:37,0:01:23,End,3,Dry,1,,"There are animals (primates?) moving in the trees above the recorder, but they stay quiet."
+Silvy van Kuijk,HARPIA_20140209_060000,2/9/2014,"Harpia, 4, 200",Howler,6:00:00,0:10:00,"Start, End",3,Dry,1,,Likely same group as previous file.
+Silvy van Kuijk,HARPIA_20140209_060000,2/9/2014,"Harpia, 4, 200",Howler,6:06:41,0:03:00,Complete,2,Dry,1,,"Different group, much closer than the other group in this file. Saimiri calls at the end of file."
+Silvy van Kuijk,HARPIA_20140209_061500,2/9/2014,"Harpia, 4, 200",Howler,6:15:00,0:10:00,"Start, End",3,Dry,1,,
+Silvy van Kuijk,HARPIA_20140209_061500,2/9/2014,"Harpia, 4, 200",Howler,6:20:15,0:04:45,End,2,Dry,1,,
+Silvy van Kuijk,HARPIA_20140209_063000,2/9/2014,"Harpia, 4, 200",Howler,6:30:00,0:10:00,"Start, End",3,Dry,1,,"Sometimes it sounds like distance 2, sometimes like distance 3"
+Silvy van Kuijk,HARPIA_20140209_064500,2/9/2014,"Harpia, 4, 200",Howler,6:45:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20140209_070000,2/9/2014,"Harpia, 4, 200",Howler,7:04:53,0:05:07,End,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20140209_071500,2/9/2014,"Harpia, 4, 200",Howler,7:15:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20140209_073000,2/9/2014,"Harpia, 4, 200",Howler,7:30:00,0:10:00,"Start, End",3,Dry,1,,
+Silvy van Kuijk,HARPIA_20140209_074500,2/9/2014,"Harpia, 4, 200",Howler,7:45:00,0:10:00,"Start, End",3,Dry,1,,
+Silvy van Kuijk,HARPIA_20140209_080000,2/9/2014,"Harpia, 4, 200",Howler,8:00:00,0:10:00,"Start, End",3,Dry,1,,
+Silvy van Kuijk,HARPIA_20140214_054500,2/14/2014,"Harpia, 4, 600",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140214_060000,2/14/2014,"Harpia, 4, 600",Howler,6:00:00,0:04:10,Start,4,Dry,1,,I can no longer hear this group once the closer group starts at 04:10.
+Silvy van Kuijk,HARPIA_20140214_060000,2/14/2014,"Harpia, 4, 600",Howler,6:04:10,0:05:50,End,2,Dry,1,,
+Silvy van Kuijk,HARPIA_20140214_061500,2/14/2014,"Harpia, 4, 600",Howler,6:15:00,0:10:00,"Start, End",2,Dry,1,,Likely same group as the distance 2 group in previous file.
+Silvy van Kuijk,HARPIA_20140214_063000,2/14/2014,"Harpia, 4, 600",Howler,6:30:00,0:07:18,Start,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20140214_064500,2/14/2014,"Harpia, 4, 600",None,,,,,Dry,1,,Generator noise in background
+Silvy van Kuijk,HARPIA_20140214_070000,2/14/2014,"Harpia, 4, 600",None,,,,,Dry,1,,Saimiri and/or capuchins walking around recorder. Cool bird singing in the last minute or two!
+Silvy van Kuijk,HARPIA_20140214_071500,2/14/2014,"Harpia, 4, 600",None,,,,,Dry,1,,All sorts of cool close up bird calls!
+Silvy van Kuijk,HARPIA_20140214_073000,2/14/2014,"Harpia, 4, 600",Howler,7:37:23,0:02:37,End,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20140214_074500,2/14/2014,"Harpia, 4, 600",Howler,7:45:00,0:07:06,Start,3,Dry,1,,"Saki call at 1:16, another at 3:53."
+Silvy van Kuijk,HARPIA_20140214_080000,2/14/2014,"Harpia, 4, 600",None,,,,,Dry,1,,Saki calls at 00:18
+Silvy van Kuijk,HARPIA_20140215_054500,2/15/2014,"Harpia, 4, 600",Howler,5:50:58,0:04:02,End,4,Dry,1,,"Sounds like there are primates pooping/peeing right around the recorder. As it started right after a group of howlers started singing in the background, I'm guessing it's howlers..."
+Silvy van Kuijk,HARPIA_20140215_060000,2/15/2014,"Harpia, 4, 600",Howler,6:00:36,0:09:24,End,1,Dry,1,,"I was right, indeed howlers above recorder! You can hear a soft grunting before howling starts. Very cool recording!"
+Silvy van Kuijk,HARPIA_20140215_060000,2/15/2014,"Harpia, 4, 600",Howler,6:00:00,0:08:37,End,3,Dry,1,,"I can't hear if they are still singing the last few minutes, the group above the recorder is masking them."
+Silvy van Kuijk,HARPIA_20140215_061500,2/15/2014,"Harpia, 4, 600",Howler,6:15:00,0:07:30,Start,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20140215_063000,2/15/2014,"Harpia, 4, 600",None,,,,,Drizzle,1,,Woolies close to recorder at 07:24 and again around 08:23. Great recordings!
+Silvy van Kuijk,HARPIA_20140215_064500,2/15/2014,"Harpia, 4, 600",None,,,,,Drizzle,1,,"Loud screams from a primate, perhaps a squirrel monkey?"
+Silvy van Kuijk,HARPIA_20140215_070000,2/15/2014,"Harpia, 4, 600",None,,,,,Dry,1,,Such pretty bird calls!
+Silvy van Kuijk,HARPIA_20140215_071500,2/15/2014,"Harpia, 4, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20140215_073000,2/15/2014,"Harpia, 4, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20140215_074500,2/15/2014,"Harpia, 4, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20140215_080000,2/15/2014,"Harpia, 4, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20140210_054500,2/10/2014,"Harpia, 7, 400",Howler,5:52:18,0:02:42,End,4,Rain,1,,
+Silvy van Kuijk,HARPIA_20140210_060000,2/10/2014,"Harpia, 7, 400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20140210_061500,2/10/2014,"Harpia, 7, 400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20140210_063000,2/10/2014,"Harpia, 7, 400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20140210_064500,2/10/2014,"Harpia, 7, 400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20140210_070000,2/10/2014,"Harpia, 7, 400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20140210_071500,2/10/2014,"Harpia, 7, 400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20140210_073000,2/10/2014,"Harpia, 7, 400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20140210_074500,2/10/2014,"Harpia, 7, 400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20140210_080000,2/10/2014,"Harpia, 7, 400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20140211_054500,2/11/2014,"Harpia, 7, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140211_060000,2/11/2014,"Harpia, 7, 400",Howler,6:05:10,0:04:40,End,3,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140211_061500,2/11/2014,"Harpia, 7, 400",Howler,6:15:00,0:10:00,"Start, End",4,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140211_063000,2/11/2014,"Harpia, 7, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140211_064500,2/11/2014,"Harpia, 7, 400",Howler,6:45:00,0:10:00,"Start, End",4,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140211_070000,2/11/2014,"Harpia, 7, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140211_071500,2/11/2014,"Harpia, 7, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140211_073000,2/11/2014,"Harpia, 7, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140211_074500,2/11/2014,"Harpia, 7, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140211_080000,2/11/2014,"Harpia, 7, 400",None,,,,,Drizzle,1,,"No primates heard, but there is definitely something moving around in the trees near the recorder."
+Silvy van Kuijk,HARPIA_20140212_054500,2/12/2014,"Harpia, 7, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140212_060000,2/12/2014,"Harpia, 7, 400",Howler,6:00:00,0:06:28,"Start, End",4,Drizzle,1,,"Howlers far away, cannot hear them any longer when a closer group starts howling too."
+Silvy van Kuijk,HARPIA_20140212_060000,2/12/2014,"Harpia, 7, 400",Howler,6:06:28,0:03:32,End,3,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140212_061500,2/12/2014,"Harpia, 7, 400",Howler,6:15:00,0:04:06,Start,3,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140212_063000,2/12/2014,"Harpia, 7, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140212_064500,2/12/2014,"Harpia, 7, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140212_070000,2/12/2014,"Harpia, 7, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140212_071500,2/12/2014,"Harpia, 7, 400",None,,,,,Drizzle,1,,"At 06:10 and onwards some primates move around close to recorder, not sure of species. "
+Silvy van Kuijk,HARPIA_20140212_073000,2/12/2014,"Harpia, 7, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140212_074500,2/12/2014,"Harpia, 7, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20140212_080000,2/12/2014,"Harpia, 7, 400",None,,,,,Drizzle,1,,"There is a lot more active movement of the primates moving in the trees near the recorder. Around 3:20 - 3:30 and then around 7:10 they sound like spider monkeys, perhaps?"
+Silvy van Kuijk,HARPIA_20140213_054500,2/13/2014,"Harpia, 7, 400",Howler,5:50:54,0:04:06,End,4,Dry,1,,"WOW! A TON of insect activity, but nothing below 3 kHz. "
+Silvy van Kuijk,HARPIA_20140213_060000,2/13/2014,"Harpia, 7, 400",Howler,6:00:00,0:10:00,"Start, End",2,Dry,1,,
+Silvy van Kuijk,HARPIA_20140213_061500,2/13/2014,"Harpia, 7, 400",Howler,6:15:00,0:10:00,"Start, End",4,Dry,1,,"I think this group may have been calling in the previous file too, but closer group masked them."
+Silvy van Kuijk,HARPIA_20140213_063000,2/13/2014,"Harpia, 7, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20140213_064500,2/13/2014,"Harpia, 7, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20140213_070000,2/13/2014,"Harpia, 7, 400",None,,,,,Dry,1,,"Ton of vocal activity, but no primates"
+Silvy van Kuijk,HARPIA_20140213_071500,2/13/2014,"Harpia, 7, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20140213_073000,2/13/2014,"Harpia, 7, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20140213_074500,2/13/2014,"Harpia, 7, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20140213_080000,2/13/2014,"Harpia, 7, 400",None,,,,,Dry,1,,"Thunder in recording, maybe it rained later on this day?"
+Anna Kurtin,HARPIA_20140204_054500,2/4/2014,"Harpia, 9, -50",None,,,,,Drizzle,1,Churring sound fairly close to the microphone around 7:30 and 2:40,"Anna, that churring sound is a bird! :)"
+Anna Kurtin,HARPIA_20140204_060000,2/4/2014,"Harpia, 9, -50",Howler,6:04:40,0:05:20,End,3,Drizzle,1,Same churring sound as before present ,
+Anna Kurtin,HARPIA_20140204_061500,2/4/2014,"Harpia, 9, -50",Howler,6:15:00,0:08:06,Start,2,Drizzle,1,,
+Anna Kurtin,HARPIA_20140204_063000,2/4/2014,"Harpia, 9, -50",Howler,6:30:00,0:09:40,Start,4,Drizzle,1,,"This call likely started earlier, but was overlapped by closer grou of howlers in previous recording."
+Anna Kurtin,HARPIA_20140204_064500,2/4/2014,"Harpia, 9, -50",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20140204_070000,2/4/2014,"Harpia, 9, -50",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20140204_071500,2/4/2014,"Harpia, 9, -50",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20140204_073000,2/4/2014,"Harpia, 9, -50",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20140204_074500,2/4/2014,"Harpia, 9, -50",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20140204_080000,2/4/2014,"Harpia, 9, -50",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20140205_054500,2/5/2014,"Harpia, 9, -50",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20140205_060000,2/5/2014,"Harpia, 9, -50",Howler,6:02:20,0:07:40,End,3,Dry,1,,
+Anna Kurtin,HARPIA_20140205_061500,2/5/2014,"Harpia, 9, -50",Howler,6:15:00,0:10:00,"Start, End",3,Dry,1,,
+Anna Kurtin,HARPIA_20140205_063000,2/5/2014,"Harpia, 9, -50",Howler,6:30:00,0:10:00,"Start, End",4,Dry,1,,
+Anna Kurtin,HARPIA_20140205_064500,2/5/2014,"Harpia, 9, -50",None,,,,,Dry,1,,Thunder!
+Anna Kurtin,HARPIA_20140205_070000,2/5/2014,"Harpia, 9, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20140205_071500,2/5/2014,"Harpia, 9, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20140205_073000,2/5/2014,"Harpia, 9, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20140205_074500,2/5/2014,"Harpia, 9, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20140205_080000,2/5/2014,"Harpia, 9, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20140216_054500,2/16/2014,"Harpia, 9, 800",Howler,5:47:25,0:07:35,End,4,Dry,1,,
+Anna Kurtin,HARPIA_20140216_060000,2/16/2014,"Harpia, 9, 800",Howler,6:00:00,0:01:35,End,4,Drizzle,1,,"This call may continue, but masked by distance 2 call."
+Anna Kurtin,HARPIA_20140216_060000,2/16/2014,"Harpia, 9, 800",Howler,6:01:35,0:08:25,End,2,Drizzle,1,,
+Anna Kurtin,HARPIA_20140216_061500,2/16/2014,"Harpia, 9, 800",Howler,6:15:00,0:01:27,Start,2,Drizzle,1,,
+Anna Kurtin,HARPIA_20140216_063000,2/16/2014,"Harpia, 9, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20140216_064500,2/16/2014,"Harpia, 9, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20140216_070000,2/16/2014,"Harpia, 9, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20140216_071500,2/16/2014,"Harpia, 9, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20140216_073000,2/16/2014,"Harpia, 9, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20140216_074500,2/16/2014,"Harpia, 9, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20140216_080000,2/16/2014,"Harpia, 9, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20140217_054500,2/17/2014,"Harpia, 9, 800",Howler,5:52:45,0:02:15,End,4,Drizzle,1,,
+Anna Kurtin,HARPIA_20140217_060000,2/17/2014,"Harpia, 9, 800",Howler,6:00:00,0:10:00,"Start, End",4,Drizzle,1,,
+Anna Kurtin,HARPIA_20140217_061500,2/17/2014,"Harpia, 9, 800",None,,,,,Drizzle,1,Howling is very faint and partially obscured by bird calls,"Woolly monkeys nearby. As howling is so faint and hard to tell when it starts/stops, I will ignore this call."
+Anna Kurtin,HARPIA_20140217_063000,2/17/2014,"Harpia, 9, 800",None,,,,,Drizzle,1,"Howling is very faint, something (birds or primates) is moving around and vocalizing close to the mic",Woollies close to recorder. Lots of vocalizations!
+Anna Kurtin,HARPIA_20140217_064500,2/17/2014,"Harpia, 9, 800",None,,,,,Drizzle,1,Something still moving and vocalizing near mic,Woollies
+Anna Kurtin,HARPIA_20140217_070000,2/17/2014,"Harpia, 9, 800",None,,,,,Drizzle,1,Something still moving and vocalizing near mic,Woollies
+Anna Kurtin,HARPIA_20140217_071500,2/17/2014,"Harpia, 9, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20140217_073000,2/17/2014,"Harpia, 9, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20140217_074500,2/17/2014,"Harpia, 9, 800",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20140217_080000,2/17/2014,"Harpia, 9, 800",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150217_054500,2/17/2015,"Harpia, 1, 800",None,,,,,Drizzle,1,Howling is very faint,Howling too far to reliably call start/end
+Anna Kurtin,HARPIA_20150217_060000,2/17/2015,"Harpia, 1, 800",Howler,6:00:00,0:10:00,"Start, End",3,Drizzle,1,,
+Anna Kurtin,HARPIA_20150217_061500,2/17/2015,"Harpia, 1, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150217_063000,2/17/2015,"Harpia, 1, 800",Howler,6:33:45,0:05:22,Complete,3,Drizzle,1,Howling is in short bursts,
+Anna Kurtin,HARPIA_20150217_064500,2/17/2015,"Harpia, 1, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150217_070000,2/17/2015,"Harpia, 1, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150217_071500,2/17/2015,"Harpia, 1, 800",Howler,7:18:40,0:00:35,Complete,4,Drizzle,1,Might be very faint howling,
+Anna Kurtin,HARPIA_20150217_073000,2/17/2015,"Harpia, 1, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150217_074500,2/17/2015,"Harpia, 1, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150217_080000,2/17/2015,"Harpia, 1, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150218_054500,2/18/2015,"Harpia, 1, 800",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150218_060000,2/18/2015,"Harpia, 1, 800",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150218_061500,2/18/2015,"Harpia, 1, 800",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150218_063000,2/18/2015,"Harpia, 1, 800",Howler,6:30:00,0:10:00,"Start, End",4,Dry,1,Howling is very faint,
+Anna Kurtin,HARPIA_20150218_064500,2/18/2015,"Harpia, 1, 800",Howler,6:45:00,0:09:10,Start,4,Dry,1,,
+Anna Kurtin,HARPIA_20150218_070000,2/18/2015,"Harpia, 1, 800",Howler,7:03:42,0:06:18,End,3,Dry,1,,
+Anna Kurtin,HARPIA_20150218_071500,2/18/2015,"Harpia, 1, 800",Howler,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150218_073000,2/18/2015,"Harpia, 1, 800",Howler,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150218_074500,2/18/2015,"Harpia, 1, 800",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150218_080000,2/18/2015,"Harpia, 1, 800",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150215_054500,2/15/2015,"Harpia, 2, 600",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150215_060000,2/15/2015,"Harpia, 2, 600",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150215_061500,2/15/2015,"Harpia, 2, 600",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150215_063000,2/15/2015,"Harpia, 2, 600",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150215_064500,2/15/2015,"Harpia, 2, 600",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150215_070000,2/15/2015,"Harpia, 2, 600",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150215_071500,2/15/2015,"Harpia, 2, 600",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150215_073000,2/15/2015,"Harpia, 2, 600",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150215_074500,2/15/2015,"Harpia, 2, 600",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150215_080000,2/15/2015,"Harpia, 2, 600",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150216_054500,2/16/2015,"Harpia, 2, 600",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150216_060000,2/16/2015,"Harpia, 2, 600",Howler,6:00:00,0:10:00,"Start, End",4,Drizzle,1,Very faint howler calls ,
+Anna Kurtin,HARPIA_20150216_061500,2/16/2015,"Harpia, 2, 600",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150216_063000,2/16/2015,"Harpia, 2, 600",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150216_064500,2/16/2015,"Harpia, 2, 600",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150216_070000,2/16/2015,"Harpia, 2, 600",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150216_071500,2/16/2015,"Harpia, 2, 600",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150216_073000,2/16/2015,"Harpia, 2, 600",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150216_074500,2/16/2015,"Harpia, 2, 600",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150216_080000,2/16/2015,"Harpia, 2, 600",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150207_054500,2/7/2015,"Harpia, 3, -50",Howler,5:45:00,0:06:03,"Start, End",4,Dry,1,,"End of call unknown, masked by closer group"
+Anna Kurtin,HARPIA_20150207_054500,2/7/2015,"Harpia, 3, -50",Howler,5:51:03,0:03:53,End,3,Dry,1,,
+Anna Kurtin,HARPIA_20150207_060000,2/7/2015,"Harpia, 3, -50",Howler,6:00:00,0:10:00,"Start, End",3,Dry,1,,
+Anna Kurtin,HARPIA_20150207_061500,2/7/2015,"Harpia, 3, -50",Howler,6:15:00,0:09:16,Start,3,Dry,1,,
+Anna Kurtin,HARPIA_20150207_063000,2/7/2015,"Harpia, 3, -50",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150207_064500,2/7/2015,"Harpia, 3, -50",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150207_070000,2/7/2015,"Harpia, 3, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150207_071500,2/7/2015,"Harpia, 3, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150207_073000,2/7/2015,"Harpia, 3, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150207_074500,2/7/2015,"Harpia, 3, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150207_080000,2/7/2015,"Harpia, 3, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150208_054500,2/8/2015,"Harpia, 3, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150208_060000,2/8/2015,"Harpia, 3, -50",Howler,6:00:00,0:07:53,Start,4,Dry,1,,Spider monkey alarm calls
+Anna Kurtin,HARPIA_20150208_061500,2/8/2015,"Harpia, 3, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150208_063000,2/8/2015,"Harpia, 3, -50",Howler,6:34:12,0:05:48,End,4,Dry,1,,
+Anna Kurtin,HARPIA_20150208_064500,2/8/2015,"Harpia, 3, -50",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150208_070000,2/8/2015,"Harpia, 3, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20150208_071500,2/8/2015,"Harpia, 3, -50",Howler,7:22:15,0:00:15,Complete,4,Dry,1,,
+Anna Kurtin,HARPIA_20150208_071500,2/8/2015,"Harpia, 3, -50",Titi,7:23:08,0:01:22,End,3,Dry,1,,
+Anna Kurtin,HARPIA_20150208_073000,2/8/2015,"Harpia, 3, -50",Titi,7:30:00,0:09:48,Start,3,Dry,1,,"Something between two groups, I think. Many short calls dispersed throughout the 10-minute segment."
+Anna Kurtin,HARPIA_20150208_074500,2/8/2015,"Harpia, 3, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150208_080000,2/8/2015,"Harpia, 3, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150213_054500,2/13/2015,"Harpia, 7, 400",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150213_060000,2/13/2015,"Harpia, 7, 400",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Anna Kurtin,HARPIA_20150213_061500,2/13/2015,"Harpia, 7, 400",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150213_063000,2/13/2015,"Harpia, 7, 400",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150213_064500,2/13/2015,"Harpia, 7, 400",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150213_070000,2/13/2015,"Harpia, 7, 400",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150213_071500,2/13/2015,"Harpia, 7, 400",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150213_073000,2/13/2015,"Harpia, 7, 400",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150213_074500,2/13/2015,"Harpia, 7, 400",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150213_080000,2/13/2015,"Harpia, 7, 400",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150214_054500,2/14/2015,"Harpia, 7, 400",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150214_060000,2/14/2015,"Harpia, 7, 400",Howler,6:00:00,0:10:00,"Start, End",4,Drizzle,1,,
+Anna Kurtin,HARPIA_20150214_061500,2/14/2015,"Harpia, 7, 400",Howler,6:15:00,0:06:50,Start,4,Dry,1,,
+Anna Kurtin,HARPIA_20150214_063000,2/14/2015,"Harpia, 7, 400",Howler,6:30:00,0:02:53,Start,4,Dry,1,,
+Anna Kurtin,HARPIA_20150214_064500,2/14/2015,"Harpia, 7, 400",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150214_070000,2/14/2015,"Harpia, 7, 400",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150214_071500,2/14/2015,"Harpia, 7, 400",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150214_073000,2/14/2015,"Harpia, 7, 400",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150214_074500,2/14/2015,"Harpia, 7, 400",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150214_080000,2/14/2015,"Harpia, 7, 400",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150209_054500,2/9/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150209_060000,2/9/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150209_061500,2/9/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150209_063000,2/9/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150209_064500,2/9/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150209_070000,2/9/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150209_071500,2/9/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150209_073000,2/9/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150209_074500,2/9/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150209_080000,2/9/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150210_054500,2/10/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150210_060000,2/10/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150210_061500,2/10/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150210_063000,2/10/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150210_064500,2/10/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150210_070000,2/10/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150210_071500,2/10/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,"Breif, distant howling ","Indeed, but not sure of normal loud call, so not going to include it."
+Anna Kurtin,HARPIA_20150210_073000,2/10/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150210_074500,2/10/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150210_080000,2/10/2015,"Harpia, 10, 200",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20150211_054500,2/11/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150211_060000,2/11/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150211_061500,2/11/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150211_063000,2/11/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150211_064500,2/11/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150211_070000,2/11/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150211_071500,2/11/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150211_073000,2/11/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150211_074500,2/11/2015,"Harpia, 10, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20150211_080000,2/11/2015,"Harpia, 10, 200",None,,,,,Rain,1,Loud thunder clap,
+Anna Kurtin,HARPIA_20150212_054500,2/12/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150212_060000,2/12/2015,"Harpia, 10, 200",Howler,6:03:48,0:06:12,End,4,Drizzle,1,,Peccaries @ 1:15
+Anna Kurtin,HARPIA_20150212_061500,2/12/2015,"Harpia, 10, 200",Howler,6:15:00,0:04:13,Start,4,Drizzle,1,,Continuation of previous call.
+Anna Kurtin,HARPIA_20150212_063000,2/12/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150212_064500,2/12/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150212_070000,2/12/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150212_071500,2/12/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150212_073000,2/12/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150212_074500,2/12/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20150212_080000,2/12/2015,"Harpia, 10, 200",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20160126_054500,1/26/2016,"Harpia, 1, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20160126_060000,1/26/2016,"Harpia, 1, -50",Howler,6:08:54,0:01:06,End,3,Dry,1,,"Spider monkey alarm calls at start of recording, distant spider monkey loud calls later on."
+Anna Kurtin,HARPIA_20160126_061500,1/26/2016,"Harpia, 1, -50",Howler,6:15:00,0:10:00,"Start, End",3,Dry,1,,
+Anna Kurtin,HARPIA_20160126_063000,1/26/2016,"Harpia, 1, -50",Howler,6:30:00,0:10:00,"Start, End",3,Drizzle,1,,"Seems like 3 groups, hard to tell apart, thud duration not reliable."
+Anna Kurtin,HARPIA_20160126_064500,1/26/2016,"Harpia, 1, -50",Howler,6:45:00,0:00:50,Start,3,Drizzle,1,,
+Anna Kurtin,HARPIA_20160126_070000,1/26/2016,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20160126_071500,1/26/2016,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20160126_073000,1/26/2016,"Harpia, 1, -50",Howler,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20160126_074500,1/26/2016,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20160126_080000,1/26/2016,"Harpia, 1, -50",None,,,,,Drizzle,1,,
+Anna Kurtin,HARPIA_20160127_054500,1/27/2016,"Harpia, 1, -50",Howler,5:48:25,0:06:35,End,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20160127_054500,1/27/2016,"Harpia, 1, -50",Titi,5:51:05,0:03:17,Complete,4,Dry,1,,
+Anna Kurtin,HARPIA_20160127_060000,1/27/2016,"Harpia, 1, -50",Howler,6:00:00,0:10:00,"Start, End",2,Dry,1,,
+Anna Kurtin,HARPIA_20160127_061500,1/27/2016,"Harpia, 1, -50",Howler,6:15:00,0:10:00,"Start, End",4,Dry,1,,
+Anna Kurtin,HARPIA_20160127_063000,1/27/2016,"Harpia, 1, -50",Howler,6:30:02,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160127_063000,1/27/2016,"Harpia, 1, -50",Titi,6:35:17,0:01:15,Complete,2,Dry,1,,Spider monkey loud calls in distance
+Anna Kurtin,HARPIA_20160127_064500,1/27/2016,"Harpia, 1, -50",Howler ,6:45:00,0:05:35,Start,4,Dry,1,,
+Anna Kurtin,HARPIA_20160127_070000,1/27/2016,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160127_071500,1/27/2016,"Harpia, 1, -50",Howler,7:15:00,0:07:06,Start,4,Dry,1,,
+Anna Kurtin,HARPIA_20160127_073000,1/27/2016,"Harpia, 1, -50",Howler,7:36:46,0:03:14,End,4,Dry,1,,
+Anna Kurtin,HARPIA_20160127_074500,1/27/2016,"Harpia, 1, -50",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20160127_080000,1/27/2016,"Harpia, 1, -50",None, ,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160203_054500,2/3/2016,"Harpia, 1, 800",Howler,5:50:13,0:04:47,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160203_060000,2/3/2016,"Harpia, 1, 800",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,Cool bird at the start that I've never actually heard in the field!
+Silvy van Kuijk,HARPIA_20160203_061500,2/3/2016,"Harpia, 1, 800",Howler,6:15:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160203_063000,2/3/2016,"Harpia, 1, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160203_064500,2/3/2016,"Harpia, 1, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160203_070000,2/3/2016,"Harpia, 1, 800",Titi,7:07:09,0:02:51,End,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20160203_071500,2/3/2016,"Harpia, 1, 800",Titi,7:15:17,0:01:02,Complete,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160203_071500,2/3/2016,"Harpia, 1, 800",Howler,7:21:11,0:03:49,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160203_073000,2/3/2016,"Harpia, 1, 800",Howler,7:31:19,0:07:46,Complete,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160203_074500,2/3/2016,"Harpia, 1, 800",None,,,,,Dry,1,,Tamarin loud calls
+Silvy van Kuijk,HARPIA_20160203_080000,2/3/2016,"Harpia, 1, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160204_054500,2/4/2016,"Harpia, 1, 800",Howler,5:46:46,0:08:13,End,2,Dry,1,,
+Silvy van Kuijk,HARPIA_20160204_060000,2/4/2016,"Harpia, 1, 800",Howler,6:00:00,0:10:00,"Start, End",2,Dry,1,,
+Silvy van Kuijk,HARPIA_20160204_061500,2/4/2016,"Harpia, 1, 800",Howler,6:15:00,0:10:00,"Start, End",4,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20160204_063000,2/4/2016,"Harpia, 1, 800",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20160204_064500,2/4/2016,"Harpia, 1, 800",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20160204_070000,2/4/2016,"Harpia, 1, 800",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20160204_071500,2/4/2016,"Harpia, 1, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160204_073000,2/4/2016,"Harpia, 1, 800",Titi,7:34:47,0:02:52,Complete,3,Dry,1,,Duets + burst gobbles
+Silvy van Kuijk,HARPIA_20160204_074500,2/4/2016,"Harpia, 1, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160204_080000,2/4/2016,"Harpia, 1, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160130_054500,1/30/2016,"Harpia, 3, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160130_060000,1/30/2016,"Harpia, 3, 400",Howler,6:00:00,0:06:27,End,4,Dry,1,,"Overlapped by closer group, so end time unknown."
+Silvy van Kuijk,HARPIA_20160130_060000,1/30/2016,"Harpia, 3, 400",Howler,6:06:27,0:03:33,End,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20160130_061500,1/30/2016,"Harpia, 3, 400",Howler,6:15:00,0:08:30,Start,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20160130_063000,1/30/2016,"Harpia, 3, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160130_064500,1/30/2016,"Harpia, 3, 400",Titi,6:45:00,0:04:05,Start,4,Dry,1,,"First some burst gobbles, then duet"
+Silvy van Kuijk,HARPIA_20160130_070000,1/30/2016,"Harpia, 3, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160130_071500,1/30/2016,"Harpia, 3, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160130_073000,1/30/2016,"Harpia, 3, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160130_074500,1/30/2016,"Harpia, 3, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160130_080000,1/30/2016,"Harpia, 3, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160131_054500,1/31/2016,"Harpia, 3, 400",Howler,5:45:06,0:09:54,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160131_060000,1/31/2016,"Harpia, 3, 400",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,Some woolly vocalizations here and there too
+Silvy van Kuijk,HARPIA_20160131_061500,1/31/2016,"Harpia, 3, 400",Howler,6:15:00,0:08:30,Start,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20160131_063000,1/31/2016,"Harpia, 3, 400",None,,,,,Dry,1,,Really clear woolly 'loud calls'
+Silvy van Kuijk,HARPIA_20160131_064500,1/31/2016,"Harpia, 3, 400",Titi,6:48:13,0:05:08,Complete,3,Dry,1,,24 burst gobbles before duet. Clear woolly calls too!
+Silvy van Kuijk,HARPIA_20160131_070000,1/31/2016,"Harpia, 3, 400",None,,,,,Dry,1,,Series of 45 burst gobbles! Start time 07:00:58. Duration 00:07:48. Complete. Distance 4
+Silvy van Kuijk,HARPIA_20160131_071500,1/31/2016,"Harpia, 3, 400",None,,,,,Dry,1,,Series of 3 burst gobbles. Start time 07:15:39. Duration 00:00:22. Complete. Distance 4
+Silvy van Kuijk,HARPIA_20160131_073000,1/31/2016,"Harpia, 3, 400",None,,,,,Dry,1,,Series of 4 burst gobbles. Start time 07:31:39. Duration 00:01:48. Complete. Distance 4
+Silvy van Kuijk,HARPIA_20160131_074500,1/31/2016,"Harpia, 3, 400",Howler,7:50:07,0:04:43,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160131_080000,1/31/2016,"Harpia, 3, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160128_054500,1/28/2016,"Harpia, 8, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160128_060000,1/28/2016,"Harpia, 8, 200",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160128_061500,1/28/2016,"Harpia, 8, 200",Howler,6:15:00,0:07:52,Start,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160128_063000,1/28/2016,"Harpia, 8, 200",Titi,6:33:35,0:01:00,Complete,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160128_064500,1/28/2016,"Harpia, 8, 200",Titi,6:45:00,0:02:07,Start,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160128_070000,1/28/2016,"Harpia, 8, 200",None,,,,,Dry,1,,Really distant spider monkey loud calls
+Silvy van Kuijk,HARPIA_20160128_071500,1/28/2016,"Harpia, 8, 200",None,,,,,Dry,1,,Spider monkey calls
+Silvy van Kuijk,HARPIA_20160128_073000,1/28/2016,"Harpia, 8, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160128_074500,1/28/2016,"Harpia, 8, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160128_080000,1/28/2016,"Harpia, 8, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160129_054500,1/29/2016,"Harpia, 8, 200",Howler,5:45:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160129_060000,1/29/2016,"Harpia, 8, 200",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160129_061500,1/29/2016,"Harpia, 8, 200",Howler,6:15:00,0:04:59,Start,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160129_063000,1/29/2016,"Harpia, 8, 200",Howler,6:33:56,0:06:04,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160129_064500,1/29/2016,"Harpia, 8, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160129_070000,1/29/2016,"Harpia, 8, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160129_071500,1/29/2016,"Harpia, 8, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160129_073000,1/29/2016,"Harpia, 8, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160129_074500,1/29/2016,"Harpia, 8, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160129_080000,1/29/2016,"Harpia, 8, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160201_054500,2/1/2016,"Harpia, 8, 600",Howler,5:45:00,0:10:00,"Start, End",4,Dry,1,,"Initially really faint, but howler calls present throughout whole file (can only hear it with noisecanceling headphones on!)"
+Silvy van Kuijk,HARPIA_20160201_060000,2/1/2016,"Harpia, 8, 600",Howler,6:00:00,0:03:59,Start,2,Dry,1,,
+Silvy van Kuijk,HARPIA_20160201_060000,2/1/2016,"Harpia, 8, 600",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160201_061500,2/1/2016,"Harpia, 8, 600",Titi,6:15:08,0:01:18,Complete,2,Dry,1,,5 short solo calls
+Silvy van Kuijk,HARPIA_20160201_063000,2/1/2016,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160201_064500,2/1/2016,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160201_070000,2/1/2016,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160201_071500,2/1/2016,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160201_073000,2/1/2016,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160201_074500,2/1/2016,"Harpia, 8, 600",None,,,,,Dry,1,,"Weird, at the start of the file I hear these crickets I usually only hear at night."
+Silvy van Kuijk,HARPIA_20160201_080000,2/1/2016,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160202_054500,2/2/2016,"Harpia, 8, 600",Howler,5:51:44,0:03:16,End,1,Dry,1,,
+Silvy van Kuijk,HARPIA_20160202_060000,2/2/2016,"Harpia, 8, 600",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160202_061500,2/2/2016,"Harpia, 8, 600",Howler,6:15:00,0:09:37,"Start, End",1,Dry,1,,"Definitely some kids 'howling' along here. Listen to those weird cat-like screetches at the start. That's howler kids! In addition, group is calling back and forth with a group at distance 4."
+Silvy van Kuijk,HARPIA_20160202_061500,2/2/2016,"Harpia, 8, 600",Howler,6:15:00,0:10:00,"Start, End",4,Dry,1,,Alternating calls with group at distance 1.
+Silvy van Kuijk,HARPIA_20160202_063000,2/2/2016,"Harpia, 8, 600",Howler,6:32:26,0:00:03,Complete,1,Dry,1,,One short howl by 1 individual
+Silvy van Kuijk,HARPIA_20160202_063000,2/2/2016,"Harpia, 8, 600",Howler,6:30:20,0:09:40,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20160202_064500,2/2/2016,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20160202_070000,2/2/2016,"Harpia, 8, 600",Howler,7:02:01,0:01:38,Complete,1,Dry,1,,
+Silvy van Kuijk,HARPIA_20160202_071500,2/2/2016,"Harpia, 8, 600",None,,,,,Dry,1,,Spider monkey at 03:57. 05:55 and 06:55
+Silvy van Kuijk,HARPIA_20160202_073000,2/2/2016,"Harpia, 8, 600",None,,,,,Dry,1,,More spider monkey loud calls
+Silvy van Kuijk,HARPIA_20160202_074500,2/2/2016,"Harpia, 8, 600",None,,,,,Dry,1,,More spider monkey loud calls
+Silvy van Kuijk,HARPIA_20160202_080000,2/2/2016,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170212_054500,2/12/2017,"Harpia, 1, -50",Howler,5:46:30,0:03:43,End,4,Dry,1,,Maybe capuchin calls at the every end??
+Silvy van Kuijk,HARPIA_20170212_054500,2/12/2017,"Harpia, 1, -50",Howler,5:50:13,0:04:47,End,3,Dry,1,,Maybe capuchin calls at the every end??
+Silvy van Kuijk,HARPIA_20170212_060000,2/12/2017,"Harpia, 1, -50",Howler,6:00:07,0:09:53,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170212_061500,2/12/2017,"Harpia, 1, -50",Howler,6:15:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170212_063000,2/12/2017,"Harpia, 1, -50",Howler,6:30:00,6:35:40,Start,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170212_064500,2/12/2017,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170212_070000,2/12/2017,"Harpia, 1, -50",Howler,7:00:00,0:09:54,"Start, End",4,Dry,1,,Primates moving through the trees near recorder. Sounds like the slow and deliberate swings of spider monkeys?
+Silvy van Kuijk,HARPIA_20170212_071500,2/12/2017,"Harpia, 1, -50",Howler,7:15:00,0:09:49,Start,4,Dry,1,,Spider monkeys moving through trees nearby
+Silvy van Kuijk,HARPIA_20170212_073000,2/12/2017,"Harpia, 1, -50",Howler,7:31:43,0:01:22,Complete,4,Dry,1,,People walking by recorder. Woolly monkies nearby
+Silvy van Kuijk,HARPIA_20170212_074500,2/12/2017,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170212_080000,2/12/2017,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170213_054500,2/13/2017,"Harpia, 1, -50",Howler,5:50:21,0:04:39,End,2,Dry,1,,
+Silvy van Kuijk,HARPIA_20170213_060000,2/13/2017,"Harpia, 1, -50",Howler,6:00:00,0:06:52,Start,2,Dry,1,,
+Silvy van Kuijk,HARPIA_20170213_060000,2/13/2017,"Harpia, 1, -50",Howler,6:05:52,0:04:08,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170213_061500,2/13/2017,"Harpia, 1, -50",Howler,6:15:00,0:10:00,"Start, End",2,Dry,1,,
+Silvy van Kuijk,HARPIA_20170213_061500,2/13/2017,"Harpia, 1, -50",Howler,6:18:04,0:06:56,"Start, End",4,Dry,1,,Start and end of call masked by closer group
+Silvy van Kuijk,HARPIA_20170213_063000,2/13/2017,"Harpia, 1, -50",Howler,6:30:00,0:06:09,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170213_063000,2/13/2017,"Harpia, 1, -50",Howler,6:36:09,0:00:19,Complete,2,Dry,1,,
+Silvy van Kuijk,HARPIA_20170213_063000,2/13/2017,"Harpia, 1, -50",Howler,6:36:28,0:03:32,End,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20170213_064500,2/13/2017,"Harpia, 1, -50",Titi,6:45:00,0:10:00,End,4,Dry,1,,"Woolies, titis and howlers in 1 recording! Sounds like there might be several groups of titis, but absolutely imposible to tell apart."
+Silvy van Kuijk,HARPIA_20170213_064500,2/13/2017,"Harpia, 1, -50",Howler,6:45:00,0:04:06,"Start, End",4,Dry,1,,"Woolies, titis and howlers in 1 recording! Howlers get masked by a closer group that starts calling."
+Silvy van Kuijk,HARPIA_20170213_064500,2/13/2017,"Harpia, 1, -50",Howler,6:49:06,0:05:54,End,3,Dry,1,,"Woolies, titis and howlers in 1 recording!"
+Silvy van Kuijk,HARPIA_20170213_070000,2/13/2017,"Harpia, 1, -50",Howler,7:00:00,0:08:13,Start,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170213_070000,2/13/2017,"Harpia, 1, -50",Titi,7:04:05,0:05:55,End,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20170213_070000,2/13/2017,"Harpia, 1, -50",Howler,7:05:40,0:00:38,Complete,2,Dry,1,,
+Silvy van Kuijk,HARPIA_20170213_071500,2/13/2017,"Harpia, 1, -50",Titi,7:23:20,0:01:30,Complete,4,Dry,1,,Group is very far away
+Silvy van Kuijk,HARPIA_20170213_073000,2/13/2017,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170213_074500,2/13/2017,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170213_080000,2/13/2017,"Harpia, 1, -50",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170217_054500,2/17/2017,"Harpia, 1, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170217_060000,2/17/2017,"Harpia, 1, 400",Howler,6:04:58,0:05:02,End,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20170217_060000,2/17/2017,"Harpia, 1, 400",Howler,6:01:42,0:03:11,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170217_061500,2/17/2017,"Harpia, 1, 400",Howler,6:15:00,0:09:20,Start,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20170217_063000,2/17/2017,"Harpia, 1, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170217_064500,2/17/2017,"Harpia, 1, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170217_070000,2/17/2017,"Harpia, 1, 400",Titi,7:00:57,0:08:48,Complete,4,Dry,1,,Two groups burst gobbling back and forth. The group at distance 4 duets too. Start time 07:00:05. Duration 00:09:55. Complete. Distance 3.
+Silvy van Kuijk,HARPIA_20170217_071500,2/17/2017,"Harpia, 1, 400",Titi,7:15:06,0:03:09,Complete,4,Dry,1,,Long series of burst gobbles. Start time 07:15:03. Duration 00:09:47. Complete. Distance 3.
+Silvy van Kuijk,HARPIA_20170217_071500,2/17/2017,"Harpia, 1, 400",Howler,7:15:10,0:07:27,Complete,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170217_073000,2/17/2017,"Harpia, 1, 400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20170217_074500,2/17/2017,"Harpia, 1, 400",Howler,7:46:46,0:08:04,Complete,4,Rain,1,,
+Silvy van Kuijk,HARPIA_20170217_080000,2/17/2017,"Harpia, 1, 400",Howler,8:00:04,0:06:47,Complete,4,Rain,1,,
+Silvy van Kuijk,HARPIA_20170218_054500,2/18/2017,"Harpia, 1, 400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20170218_060000,2/18/2017,"Harpia, 1, 400",Howler,6:07:02,0:02:58,End,4,Rain,1,,
+Silvy van Kuijk,HARPIA_20170218_061500,2/18/2017,"Harpia, 1, 400",Howler,6:15:00,0:10:00,"Start, End",4,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170218_063000,2/18/2017,"Harpia, 1, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170218_064500,2/18/2017,"Harpia, 1, 400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20170218_070000,2/18/2017,"Harpia, 1, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170218_071500,2/18/2017,"Harpia, 1, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170218_073000,2/18/2017,"Harpia, 1, 400",None,,,,,Drizzle,1,,Woolly monkey in distance at end of recording.
+Silvy van Kuijk,HARPIA_20170218_074500,2/18/2017,"Harpia, 1, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170218_080000,2/18/2017,"Harpia, 1, 400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170219_054500,2/19/2017,"Harpia, 1, 400",Howler,5:47:13,0:07:47,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170219_060000,2/19/2017,"Harpia, 1, 400",Howler,6:00:00,0:04:48,Start,1,Dry,1,,Someone walks by recorder (which has howlers directly above) at 45 seconds.
+Silvy van Kuijk,HARPIA_20170219_060000,2/19/2017,"Harpia, 1, 400",Howler,6:04:40,0:05:20,"Start, End",4,Dry,1,,Someone walks by recorder (which has howlers directly above) at 45 seconds.
+Silvy van Kuijk,HARPIA_20170219_061500,2/19/2017,"Harpia, 1, 400",Howler,6:15:00,0:08:03,Start,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170219_063000,2/19/2017,"Harpia, 1, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170219_064500,2/19/2017,"Harpia, 1, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170219_070000,2/19/2017,"Harpia, 1, 400",Titi,7:00:02,0:03:53,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170219_070000,2/19/2017,"Harpia, 1, 400",Titi,7:03:55,0:02:05,Complete,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20170219_071500,2/19/2017,"Harpia, 1, 400",Titi,7:21:01,0:03:50,Complete,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170219_073000,2/19/2017,"Harpia, 1, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170219_074500,2/19/2017,"Harpia, 1, 400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170219_080000,2/19/2017,"Harpia, 1, 400",None,,,,,Dry,1,,
+Anna Kurtin,HARPIA_20170214_054500,2/14/2017,"Harpia, 2, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20170214_060000,2/14/2017,"Harpia, 2, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20170214_061500,2/14/2017,"Harpia, 2, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20170214_063000,2/14/2017,"Harpia, 2, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20170214_064500,2/14/2017,"Harpia, 2, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20170214_070000,2/14/2017,"Harpia, 2, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20170214_071500,2/14/2017,"Harpia, 2, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20170214_073000,2/14/2017,"Harpia, 2, 200",Howler,7:32:55,0:07:05,End,4,Rain,1,Howlers faint under the rain,
+Anna Kurtin,HARPIA_20170214_074500,2/14/2017,"Harpia, 2, 200",None,,,,,Rain,1,,
+Anna Kurtin,HARPIA_20170214_080000,2/14/2017,"Harpia, 2, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20170215_054500,2/15/2017,"Harpia, 2, 200",Howler,5:48:46,0:06:14,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170215_060000,2/15/2017,"Harpia, 2, 200",Howler,6:00:00,0:01:06,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170215_060000,2/15/2017,"Harpia, 2, 200",Howler,6:01:06,0:07:54,End,2,Dry,1,,
+Silvy van Kuijk,HARPIA_20170215_061500,2/15/2017,"Harpia, 2, 200",Howler,6:15:00,0:10:00,"Start, End",4,Dry,1,,Spider monkey loud call starting at 6 seconds.
+Silvy van Kuijk,HARPIA_20170215_063000,2/15/2017,"Harpia, 2, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170215_064500,2/15/2017,"Harpia, 2, 200",Titi,6:46:30,0:05:12,Complete,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170215_070000,2/15/2017,"Harpia, 2, 200",Titi,7:05:50,0:02:57,Complete,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20170215_071500,2/15/2017,"Harpia, 2, 200",Titi,7:17:33,0:05:42,Complete,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170215_073000,2/15/2017,"Harpia, 2, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170215_074500,2/15/2017,"Harpia, 2, 200",None,,,,,Dry,1,,Spider monkey loud call at 7 seconds in.
+Silvy van Kuijk,HARPIA_20170215_080000,2/15/2017,"Harpia, 2, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170216_054500,2/16/2017,"Harpia, 2, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170216_060000,2/16/2017,"Harpia, 2, 200",Howler,6:04:36,0:05:24,End,1,Rain,1,,You can hear soft vocalizations quite some time before loud calls start. Cool!
+Silvy van Kuijk,HARPIA_20170216_061500,2/16/2017,"Harpia, 2, 200",Howler,6:15:00,0:10:00,"Start, End",3,Rain,1,,"Seems likely there are two groups here either alternating or caling simultaneously. Hard to parse out, so created only one record in this database."
+Silvy van Kuijk,HARPIA_20170216_063000,2/16/2017,"Harpia, 2, 200",Howler,6:30:00,0:10:00,"Start, End",4,Rain,1,,
+Silvy van Kuijk,HARPIA_20170216_064500,2/16/2017,"Harpia, 2, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170216_070000,2/16/2017,"Harpia, 2, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170216_071500,2/16/2017,"Harpia, 2, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170216_073000,2/16/2017,"Harpia, 2, 200",Titi,7:30:09,0:04:37,Complete,2,Dry,1,,
+Silvy van Kuijk,HARPIA_20170216_073000,2/16/2017,"Harpia, 2, 200",Titi,7:37:28,0:02:14,Complete,4,Dry,1,,I think there are sakis moving through the trees near the recorder.
+Silvy van Kuijk,HARPIA_20170216_074500,2/16/2017,"Harpia, 2, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170216_080000,2/16/2017,"Harpia, 2, 200",Howler,8:07:39,0:00:08,Complete,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170220_054500,2/20/2017,"Harpia, 8, 600",Howler,5:47:40,0:07:20,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170220_060000,2/20/2017,"Harpia, 8, 600",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,Spider monkey loud calls here and there
+Silvy van Kuijk,HARPIA_20170220_061500,2/20/2017,"Harpia, 8, 600",Howler,6:15:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170220_063000,2/20/2017,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170220_064500,2/20/2017,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170220_070000,2/20/2017,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170220_071500,2/20/2017,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170220_073000,2/20/2017,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170220_074500,2/20/2017,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170220_080000,2/20/2017,"Harpia, 8, 600",Howler,8:00:00,0:04:30,Start,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170221_054500,2/21/2017,"Harpia, 8, 600",Howler,5:45:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170221_060000,2/21/2017,"Harpia, 8, 600",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170221_061500,2/21/2017,"Harpia, 8, 600",Howler,6:15:00,0:09:32,Start,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170221_063000,2/21/2017,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170221_064500,2/21/2017,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170221_070000,2/21/2017,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170221_071500,2/21/2017,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170221_073000,2/21/2017,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170221_074500,2/21/2017,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170221_080000,2/21/2017,"Harpia, 8, 600",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170222_054500,2/22/2017,"Harpia, 9, 800",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20170222_060000,2/22/2017,"Harpia, 9, 800",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20170222_061500,2/22/2017,"Harpia, 9, 800",Howler,6:15:10,0:09:08,Complete,4,Rain,1,,Not a continuous call but a series of short (1-2 seconds) calls.
+Silvy van Kuijk,HARPIA_20170222_063000,2/22/2017,"Harpia, 9, 800",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20170222_064500,2/22/2017,"Harpia, 9, 800",None,,,,,Rain,1,,Woollies at 5:45
+Silvy van Kuijk,HARPIA_20170222_070000,2/22/2017,"Harpia, 9, 800",None,,,,,Rain,1,,Tons of woollie calls
+Silvy van Kuijk,HARPIA_20170222_071500,2/22/2017,"Harpia, 9, 800",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20170222_073000,2/22/2017,"Harpia, 9, 800",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20170222_074500,2/22/2017,"Harpia, 9, 800",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20170222_080000,2/22/2017,"Harpia, 9, 800",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20170223_054500,2/23/2017,"Harpia, 9, 800",Howler,5:47:55,0:05:37,End,4,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170223_054500,2/23/2017,"Harpia, 9, 800",Howler,5:52:18,0:02:42,End,3,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170223_060000,2/23/2017,"Harpia, 9, 800",Howler,6:00:00,0:10:00,"Start, End",4,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170223_060000,2/23/2017,"Harpia, 9, 800",Howler,6:00:04,0:05:34,Start,3,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170223_061500,2/23/2017,"Harpia, 9, 800",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170223_063000,2/23/2017,"Harpia, 9, 800",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170223_064500,2/23/2017,"Harpia, 9, 800",None,,,,,Drizzle,1,,
+Silvy van Kuijk,HARPIA_20170223_070000,2/23/2017,"Harpia, 9, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170223_071500,2/23/2017,"Harpia, 9, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170223_073000,2/23/2017,"Harpia, 9, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170223_074500,2/23/2017,"Harpia, 9, 800",Titi,7:53:22,0:01:38,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170223_074500,2/23/2017,"Harpia, 9, 800",Howler,7:45:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170223_080000,2/23/2017,"Harpia, 9, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170224_054500,2/24/2017,"Harpia, 9, 800",Howler,5:45:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170224_060000,2/24/2017,"Harpia, 9, 800",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170224_061500,2/24/2017,"Harpia, 9, 800",Howler,6:15:00,0:07:15,Start,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20170224_063000,2/24/2017,"Harpia, 9, 800",None,,,,,Dry,1,,Woollies moving through trees around recorder
+Silvy van Kuijk,HARPIA_20170224_064500,2/24/2017,"Harpia, 9, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170224_070000,2/24/2017,"Harpia, 9, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170224_071500,2/24/2017,"Harpia, 9, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170224_073000,2/24/2017,"Harpia, 9, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170224_074500,2/24/2017,"Harpia, 9, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20170224_080000,2/24/2017,"Harpia, 9, 800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140208_054500,2/8/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140208_060000,2/8/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140208_061500,2/8/2014,"Puma, -1, 200",None,,,,,Rain,1,,HEAVY rain
+Silvy van Kuijk,PUMA_20140208_063000,2/8/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140208_064500,2/8/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140208_070000,2/8/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140208_071500,2/8/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140208_073000,2/8/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140208_074500,2/8/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140208_080000,2/8/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140209_054500,2/9/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,Cool bird call at 4:25. Trumpeter or something??
+Silvy van Kuijk,PUMA_20140209_060000,2/9/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140209_061500,2/9/2014,"Puma, -1, 200",Howler,6:15:00,0:10:00,"Start, End",4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140209_063000,2/9/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140209_064500,2/9/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140209_070000,2/9/2014,"Puma, -1, 200",Titi,7:02:03,0:07:57,End,4,Drizzle,1,,Likely more than 1 group calling - alternating
+Silvy van Kuijk,PUMA_20140209_071500,2/9/2014,"Puma, -1, 200",Titi,7:15:00,0:08:36,Start,3,Dry,1,,
+Silvy van Kuijk,PUMA_20140209_073000,2/9/2014,"Puma, -1, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140209_074500,2/9/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140209_080000,2/9/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140210_054500,2/10/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140210_060000,2/10/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140210_061500,2/10/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140210_063000,2/10/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140210_064500,2/10/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140210_070000,2/10/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140210_071500,2/10/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140210_073000,2/10/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140210_074500,2/10/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140210_080000,2/10/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140211_054500,2/11/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140211_060000,2/11/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140211_061500,2/11/2014,"Puma, -1, 200",Howler,6:15:25,0:02:56,Complete,3,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140211_063000,2/11/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140211_064500,2/11/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140211_070000,2/11/2014,"Puma, -1, 200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140211_071500,2/11/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140211_073000,2/11/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140211_074500,2/11/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140211_080000,2/11/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140212_054500,2/12/2014,"Puma, -1, 200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140212_060000,2/12/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140212_061500,2/12/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140212_063000,2/12/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140212_064500,2/12/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140212_070000,2/12/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140212_071500,2/12/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140212_073000,2/12/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140212_074500,2/12/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140212_080000,2/12/2014,"Puma, -1, 200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140213_054500,2/13/2014,"Puma, 4,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140213_060000,2/13/2014,"Puma, 4,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140213_061500,2/13/2014,"Puma, 4,400",None,,,,,Dry,1,,Spider monkey loud calls
+Silvy van Kuijk,PUMA_20140213_063000,2/13/2014,"Puma, 4,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140213_064500,2/13/2014,"Puma, 4,400",None,,,,,Dry,1,,Spider monkey loud calls
+Silvy van Kuijk,PUMA_20140213_070000,2/13/2014,"Puma, 4,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140213_071500,2/13/2014,"Puma, 4,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140213_073000,2/13/2014,"Puma, 4,400",None,,,,,Dry,1,,Some clear spider monkey calls starting 5:35. 
+Silvy van Kuijk,PUMA_20140213_074500,2/13/2014,"Puma, 4,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140213_080000,2/13/2014,"Puma, 4,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140214_054500,2/14/2014,"Puma, 4,400",Howler,5:48:40,0:06:20,End,4,Dry,1,,
+Silvy van Kuijk,PUMA_20140214_060000,2/14/2014,"Puma, 4,400",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,PUMA_20140214_061500,2/14/2014,"Puma, 4,400",Howler,6:15:00,0:03:05,Start,4,Dry,1,,
+Silvy van Kuijk,PUMA_20140214_063000,2/14/2014,"Puma, 4,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140214_064500,2/14/2014,"Puma, 4,400",Howler,6:45:00,0:07:43,Start,4,Dry,1,,Spider monkey at 08:50
+Silvy van Kuijk,PUMA_20140214_070000,2/14/2014,"Puma, 4,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140214_071500,2/14/2014,"Puma, 4,400",None,,,,,Dry,1,,Spider monkey calls starting at 02:07
+Silvy van Kuijk,PUMA_20140214_073000,2/14/2014,"Puma, 4,400",None,,,,,Dry,1,,Helicopter/plane flying over
+Silvy van Kuijk,PUMA_20140214_074500,2/14/2014,"Puma, 4,400",None,,,,,Dry,1,,Nice spider monkey call + response at 03:43
+Silvy van Kuijk,PUMA_20140214_080000,2/14/2014,"Puma, 4,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140205_054500,2/5/2014,"Puma, 6,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20140205_060000,2/5/2014,"Puma, 6,0",Howler,6:01:30,0:08:30,End,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140205_061500,2/5/2014,"Puma, 6,0",Howler,6:15:00,0:10:00,"Start, End",4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140205_063000,2/5/2014,"Puma, 6,0",Titi,6:32:49,0:07:11,End,4,Drizzle,1,,"Really faint, but off and on calling throughout most of recording."
+Silvy van Kuijk,PUMA_20140205_063000,2/5/2014,"Puma, 6,0",Titi,6:34:45,0:03:44,Complete,3,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140205_064500,2/5/2014,"Puma, 6,0",Titi,6:45:00,0:09:10,Start,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140205_070000,2/5/2014,"Puma, 6,0",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140205_071500,2/5/2014,"Puma, 6,0",Titi,7:15:05,0:05:37,Complete,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20140205_073000,2/5/2014,"Puma, 6,0",Titi,7:30:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,PUMA_20140205_074500,2/5/2014,"Puma, 6,0",Titi,7:53:10,0:01:05,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20140205_080000,2/5/2014,"Puma, 6,0",Titi,8:02:49,0:01:51,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20140206_054500,2/6/2014,"Puma, 6,0",Titi,5:48:27,0:03:28,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20140206_054500,2/6/2014,"Puma, 6,0",Howler,5:46:03,0:08:57,End,4,Dry,1,,
+Silvy van Kuijk,PUMA_20140206_060000,2/6/2014,"Puma, 6,0",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,"John is at the recorders, naming the birds he hears."
+Silvy van Kuijk,PUMA_20140206_061500,2/6/2014,"Puma, 6,0",None,,,,,Dry,1,,Spider monkey at 2:55. There is some soft chatter later on too.
+Silvy van Kuijk,PUMA_20140206_063000,2/6/2014,"Puma, 6,0",None,,,,,Dry,1,,Beautiful recording!
+Silvy van Kuijk,PUMA_20140206_064500,2/6/2014,"Puma, 6,0",Titi,6:45:08,0:09:52,End,3,Dry,1,,
+Silvy van Kuijk,PUMA_20140206_070000,2/6/2014,"Puma, 6,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140206_071500,2/6/2014,"Puma, 6,0",Titi,7:15:00,0:01:26,Start,4,Dry,1,,Distant duet. I also hear two short burst gobbles. Start time 07:24:42. Duration 00:00:08. Complete. Distance 4.
+Silvy van Kuijk,PUMA_20140206_073000,2/6/2014,"Puma, 6,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140206_074500,2/6/2014,"Puma, 6,0",None,,,,,Dry,1,,Heavy thunder
+Silvy van Kuijk,PUMA_20140206_080000,2/6/2014,"Puma, 6,0",None,,,,,Dry,1,,Someone moving around near recorder.
+Silvy van Kuijk,PUMA_20140207_054500,2/7/2014,"Puma, 6,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140207_060000,2/7/2014,"Puma, 6,0",None,,,,4,Dry,1,,
+Silvy van Kuijk,PUMA_20140207_061500,2/7/2014,"Puma, 6,0",Howler,6:15:00,0:04:04,Start,4,Dry,1,,
+Silvy van Kuijk,PUMA_20140207_061500,2/7/2014,"Puma, 6,0",Titi,6:19:04,0:05:46,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20140207_063000,2/7/2014,"Puma, 6,0",Titi,6:30:03,0:02:55,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20140207_064500,2/7/2014,"Puma, 6,0",Titi,6:45:00,0:09:54,Start,4,Dry,1,,
+Silvy van Kuijk,PUMA_20140207_070000,2/7/2014,"Puma, 6,0",None,,,,,Dry,1,,Clear spider monkey calls (looks a bit like titi calls).
+Silvy van Kuijk,PUMA_20140207_071500,2/7/2014,"Puma, 6,0",Titi,7:15:00,0:03:24,Start,4,Dry,1,,
+Silvy van Kuijk,PUMA_20140207_073000,2/7/2014,"Puma, 6,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20140207_074500,2/7/2014,"Puma, 6,0",Titi,7:50:00,0:01:34,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20140207_074500,2/7/2014,"Puma, 6,0",Titi,7:52:29,0:02:31,End,2,Dry,1,,
+Silvy van Kuijk,PUMA_20140207_080000,2/7/2014,"Puma, 6,0",Titi,8:01:22,0:05:48,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20150214_054500,2/14/2015,"Puma, -2,400",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150214_060000,2/14/2015,"Puma, -2,400",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150214_061500,2/14/2015,"Puma, -2,400",Howler,6:16:06,0:06:52,Complete,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150214_063000,2/14/2015,"Puma, -2,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150214_064500,2/14/2015,"Puma, -2,400",Howler,6:45:05,0:09:55,End,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150214_070000,2/14/2015,"Puma, -2,400",Howler,7:00:07,0:00:45,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20150214_071500,2/14/2015,"Puma, -2,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150214_073000,2/14/2015,"Puma, -2,400",Howler,7:30:00,0:08:07,Start,4,Dry,1,,
+Silvy van Kuijk,PUMA_20150214_074500,2/14/2015,"Puma, -2,400",None,,,,,Dry,1,,"Lots of stuff (fuirts? flowers?) falling from tree, but seemingly dry."
+Silvy van Kuijk,PUMA_20150214_080000,2/14/2015,"Puma, -2,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150215_054500,2/15/2015,"Puma, -2,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150215_060000,2/15/2015,"Puma, -2,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150215_061500,2/15/2015,"Puma, -2,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150215_063000,2/15/2015,"Puma, -2,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150215_064500,2/15/2015,"Puma, -2,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150215_070000,2/15/2015,"Puma, -2,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150215_071500,2/15/2015,"Puma, -2,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150215_073000,2/15/2015,"Puma, -2,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150215_074500,2/15/2015,"Puma, -2,400",Howler,7:46:51,0:01:23,Complete,2,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150215_080000,2/15/2015,"Puma, -2,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150218_054500,2/18/2015,"Puma, 0,800",Howler,5:47:17,0:02:57,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20150218_060000,2/18/2015,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150218_061500,2/18/2015,"Puma, 0,800",Howler,6:22:59,0:01:36,Complete,3,Dry,1,,
+Silvy van Kuijk,PUMA_20150218_063000,2/18/2015,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150218_064500,2/18/2015,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150218_070000,2/18/2015,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150218_071500,2/18/2015,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150218_073000,2/18/2015,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150218_074500,2/18/2015,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150218_080000,2/18/2015,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150219_054500,2/19/2015,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150219_060000,2/19/2015,"Puma, 0,800",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,PUMA_20150219_061500,2/19/2015,"Puma, 0,800",Howler,6:15:08,0:03:08,Complete,2,Dry,1,,
+Silvy van Kuijk,PUMA_20150219_063000,2/19/2015,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150219_064500,2/19/2015,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150219_070000,2/19/2015,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150219_071500,2/19/2015,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150219_073000,2/19/2015,"Puma, 0,800",Howler,7:30:00,0:03:05,Start,4,Dry,1,,
+Silvy van Kuijk,PUMA_20150219_073000,2/19/2015,"Puma, 0,800",Titi,7:34:28,0:03:47,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20150219_074500,2/19/2015,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150219_080000,2/19/2015,"Puma, 0,800",None,,,,,Dry,1,,Woollies near recorder
+Silvy van Kuijk,PUMA_20150211_054500,2/11/2015,"Puma, 1,200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150211_060000,2/11/2015,"Puma, 1,200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150211_061500,2/11/2015,"Puma, 1,200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150211_063000,2/11/2015,"Puma, 1,200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150211_064500,2/11/2015,"Puma, 1,200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150211_070000,2/11/2015,"Puma, 1,200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150211_071500,2/11/2015,"Puma, 1,200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150211_073000,2/11/2015,"Puma, 1,200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150211_074500,2/11/2015,"Puma, 1,200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150211_080000,2/11/2015,"Puma, 1,200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150212_054500,2/12/2015,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150212_060000,2/12/2015,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150212_061500,2/12/2015,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150212_063000,2/12/2015,"Puma, 1,200",Titi,6:30:06,0:05:19,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20150212_064500,2/12/2015,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150212_070000,2/12/2015,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150212_071500,2/12/2015,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150212_073000,2/12/2015,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150212_074500,2/12/2015,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150212_080000,2/12/2015,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150213_054500,2/13/2015,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150213_060000,2/13/2015,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150213_061500,2/13/2015,"Puma, 1,200",Howler,6:15:00,0:08:30,Start,1,Dry,1,,
+Silvy van Kuijk,PUMA_20150213_063000,2/13/2015,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150213_064500,2/13/2015,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150213_070000,2/13/2015,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150213_071500,2/13/2015,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150213_073000,2/13/2015,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150213_074500,2/13/2015,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150213_080000,2/13/2015,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150208_054500,2/8/2015,"Puma, 2,0",Howler,5:45:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,PUMA_20150208_060000,2/8/2015,"Puma, 2,0",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,PUMA_20150208_061500,2/8/2015,"Puma, 2,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150208_063000,2/8/2015,"Puma, 2,0",Titi,6:37:52,0:01:35,Complete,4,Dry,1,,Spider monkey (or human?) at 3:00
+Silvy van Kuijk,PUMA_20150208_063000,2/8/2015,"Puma, 2,0",Howler,6:34:50,0:05:10,End,4,Dry,1,,Spider monkey (or human?) at 3:00
+Silvy van Kuijk,PUMA_20150208_064500,2/8/2015,"Puma, 2,0",Howler,6:45:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,PUMA_20150208_064500,2/8/2015,"Puma, 2,0",Titi,6:51:21,0:03:05,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20150208_070000,2/8/2015,"Puma, 2,0",Titi,7:09:44,0:00:14,End,4,Dry,1,,
+Silvy van Kuijk,PUMA_20150208_071500,2/8/2015,"Puma, 2,0",Titi,7:23:23,0:01:37,End,4,Dry,1,,
+Silvy van Kuijk,PUMA_20150208_073000,2/8/2015,"Puma, 2,0",Titi,7:30:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,PUMA_20150208_074500,2/8/2015,"Puma, 2,0",Titi,7:45:00,0:03:23,Start,4,Dry,1,,
+Silvy van Kuijk,PUMA_20150208_080000,2/8/2015,"Puma, 2,0",Titi,8:00:57,0:04:27,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20150209_054500,2/9/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150209_060000,2/9/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150209_061500,2/9/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150209_063000,2/9/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150209_064500,2/9/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150209_070000,2/9/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150209_071500,2/9/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150209_073000,2/9/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150209_074500,2/9/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150209_080000,2/9/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150210_054500,2/10/2015,"Puma, 2,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150210_060000,2/10/2015,"Puma, 2,0",Howler,6:00:00,0:07:59,"Start, End",4,Rain,1,,Howlers obscured by rain in the end
+Silvy van Kuijk,PUMA_20150210_061500,2/10/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150210_063000,2/10/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150210_064500,2/10/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150210_070000,2/10/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150210_071500,2/10/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150210_073000,2/10/2015,"Puma, 2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20150210_074500,2/10/2015,"Puma, 2,0",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150210_080000,2/10/2015,"Puma, 2,0",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150216_054500,2/16/2015,"Puma, -1,600",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150216_060000,2/16/2015,"Puma, -1,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150216_061500,2/16/2015,"Puma, -1,600",Howler,6:18:50,0:06:10,End,4,Dry,1,,
+Silvy van Kuijk,PUMA_20150216_063000,2/16/2015,"Puma, -1,600",Howler,6:30:00,0:06:26,Start,4,Dry,1,,Clear spider monkey calls!
+Silvy van Kuijk,PUMA_20150216_064500,2/16/2015,"Puma, -1,600",None,,,,,Dry,1,,Spider monkey calls
+Silvy van Kuijk,PUMA_20150216_070000,2/16/2015,"Puma, -1,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150216_071500,2/16/2015,"Puma, -1,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150216_073000,2/16/2015,"Puma, -1,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150216_074500,2/16/2015,"Puma, -1,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150216_080000,2/16/2015,"Puma, -1,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150217_054500,2/17/2015,"Puma, -1,600",Howler,5:45:35,0:09:25,End,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150217_060000,2/17/2015,"Puma, -1,600",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150217_061500,2/17/2015,"Puma, -1,600",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150217_063000,2/17/2015,"Puma, -1,600",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150217_064500,2/17/2015,"Puma, -1,600",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150217_070000,2/17/2015,"Puma, -1,600",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150217_071500,2/17/2015,"Puma, -1,600",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150217_073000,2/17/2015,"Puma, -1,600",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20150217_074500,2/17/2015,"Puma, -1,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20150217_080000,2/17/2015,"Puma, -1,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170221_054500,2/21/2017,"Puma, -3,600",Howler,5:46:01,0:08:59,End,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170221_060000,2/21/2017,"Puma, -3,600",Howler,6:00:00,0:07:25,Start,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170221_061500,2/21/2017,"Puma, -3,600",Howler,6:17:55,0:07:05,End,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170221_063000,2/21/2017,"Puma, -3,600",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170221_064500,2/21/2017,"Puma, -3,600",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170221_070000,2/21/2017,"Puma, -3,600",Titi,7:01:19,0:01:58,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20170221_071500,2/21/2017,"Puma, -3,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170221_073000,2/21/2017,"Puma, -3,600",None,,,,,Dry,1,,Woollie call
+Silvy van Kuijk,PUMA_20170221_074500,2/21/2017,"Puma, -3,600",Howler,7:52:26,0:00:08,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20170221_080000,2/21/2017,"Puma, -3,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170222_054500,2/22/2017,"Puma, -3,600",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170222_060000,2/22/2017,"Puma, -3,600",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170222_061500,2/22/2017,"Puma, -3,600",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170222_063000,2/22/2017,"Puma, -3,600",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170222_064500,2/22/2017,"Puma, -3,600",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170222_070000,2/22/2017,"Puma, -3,600",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170222_071500,2/22/2017,"Puma, -3,600",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170222_073000,2/22/2017,"Puma, -3,600",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170222_074500,2/22/2017,"Puma, -3,600",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170222_080000,2/22/2017,"Puma, -3,600",None,,,,,Rain,1,,Woolie calls
+Silvy van Kuijk,PUMA_20170223_054500,2/23/2017,"Puma, -3,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170223_060000,2/23/2017,"Puma, -3,600",Titi,6:00:29,0:06:49,Complete,3,Dry,1,,
+Silvy van Kuijk,PUMA_20170223_061500,2/23/2017,"Puma, -3,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170223_063000,2/23/2017,"Puma, -3,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170223_064500,2/23/2017,"Puma, -3,600",None,,,,,Dry,1,,Spider monkey call
+Silvy van Kuijk,PUMA_20170223_070000,2/23/2017,"Puma, -3,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170223_071500,2/23/2017,"Puma, -3,600",Titi,7:15:00,0:03:46,Start,4,Dry,1,,
+Silvy van Kuijk,PUMA_20170223_073000,2/23/2017,"Puma, -3,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170223_074500,2/23/2017,"Puma, -3,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170223_080000,2/23/2017,"Puma, -3,600",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170216_054500,2/16/2017,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170216_060000,2/16/2017,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170216_061500,2/16/2017,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170216_063000,2/16/2017,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170216_064500,2/16/2017,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170216_070000,2/16/2017,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170216_071500,2/16/2017,"Puma, 1,200",Titi,7:15:00,0:05:06,Start,4,Dry,1,,Animal (large primate?) moving through trees near microphone.
+Silvy van Kuijk,PUMA_20170216_073000,2/16/2017,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170216_074500,2/16/2017,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170216_080000,2/16/2017,"Puma, 1,200",None,,,,,Dry,1,,Some large primates (woollies?) near recorder
+Silvy van Kuijk,PUMA_20170217_054500,2/17/2017,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170217_060000,2/17/2017,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170217_061500,2/17/2017,"Puma, 1,200",Howler,6:20:37,0:01:31,Complete,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170217_063000,2/17/2017,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170217_064500,2/17/2017,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170217_070000,2/17/2017,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170217_071500,2/17/2017,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170217_073000,2/17/2017,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170217_074500,2/17/2017,"Puma, 1,200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170217_080000,2/17/2017,"Puma, 1,200",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170213_054500,2/13/2017,"Puma, 4,0",Howler,5:50:24,0:04:36,End,4,Dry,1,,
+Silvy van Kuijk,PUMA_20170213_060000,2/13/2017,"Puma, 4,0",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,PUMA_20170213_061500,2/13/2017,"Puma, 4,0",Howler,6:16:54,0:01:16,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20170213_063000,2/13/2017,"Puma, 4,0",None,,,,,Dry,1,,Spider monkey call
+Silvy van Kuijk,PUMA_20170213_064500,2/13/2017,"Puma, 4,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170213_070000,2/13/2017,"Puma, 4,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170213_071500,2/13/2017,"Puma, 4,0",Titi,7:17:45,0:07:12,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20170213_073000,2/13/2017,"Puma, 4,0",Titi,7:30:00,0:01:15,Start,4,Dry,1,,
+Silvy van Kuijk,PUMA_20170213_074500,2/13/2017,"Puma, 4,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170213_080000,2/13/2017,"Puma, 4,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170214_054500,2/14/2017,"Puma, 4,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170214_060000,2/14/2017,"Puma, 4,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170214_061500,2/14/2017,"Puma, 4,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170214_063000,2/14/2017,"Puma, 4,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170214_064500,2/14/2017,"Puma, 4,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170214_070000,2/14/2017,"Puma, 4,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170214_071500,2/14/2017,"Puma, 4,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170214_073000,2/14/2017,"Puma, 4,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170214_074500,2/14/2017,"Puma, 4,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170214_080000,2/14/2017,"Puma, 4,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170215_054500,2/15/2017,"Puma, 4,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170215_060000,2/15/2017,"Puma, 4,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170215_061500,2/15/2017,"Puma, 4,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170215_063000,2/15/2017,"Puma, 4,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170215_064500,2/15/2017,"Puma, 4,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170215_070000,2/15/2017,"Puma, 4,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170215_071500,2/15/2017,"Puma, 4,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170215_073000,2/15/2017,"Puma, 4,0",Titi,7:32:58,0:06:11,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20170215_074500,2/15/2017,"Puma, 4,0",Titi,7:45:00,0:00:46,Start,4,Dry,1,,
+Silvy van Kuijk,PUMA_20170215_080000,2/15/2017,"Puma, 4,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170218_054500,2/18/2017,"Puma, 6,400",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170218_060000,2/18/2017,"Puma, 6,400",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170218_061500,2/18/2017,"Puma, 6,400",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170218_063000,2/18/2017,"Puma, 6,400",Titi,6:30:00,0:05:40,Start,4,Rain,1,,
+Silvy van Kuijk,PUMA_20170218_064500,2/18/2017,"Puma, 6,400",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170218_070000,2/18/2017,"Puma, 6,400",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170218_071500,2/18/2017,"Puma, 6,400",None,,,,,Rain,1,,Faint spider monkey calls
+Silvy van Kuijk,PUMA_20170218_073000,2/18/2017,"Puma, 6,400",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170218_074500,2/18/2017,"Puma, 6,400",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170218_080000,2/18/2017,"Puma, 6,400",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170219_054500,2/19/2017,"Puma, 6,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170219_060000,2/19/2017,"Puma, 6,400",Howler,6:01:29,0:08:31,End,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170219_061500,2/19/2017,"Puma, 6,400",Howler,6:15:00,0:10:00,"Start, End",4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170219_063000,2/19/2017,"Puma, 6,400",Howler,6:30:00,0:10:00,"Start, End",4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170219_064500,2/19/2017,"Puma, 6,400",Howler,6:45:06,0:05:31,Complete,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170219_064500,2/19/2017,"Puma, 6,400",None,,,,,Drizzle,1,,Burst gobble. Start time 06:54:51. Duration 00:00:04. Complete. Distance 4.
+Silvy van Kuijk,PUMA_20170219_070000,2/19/2017,"Puma, 6,400",Titi,7:00:22,0:01:09,Complete,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170219_070000,2/19/2017,"Puma, 6,400",Howler,7:03:30,0:06:30,End,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170219_071500,2/19/2017,"Puma, 6,400",Howler,7:15:00,0:09:55,Start,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170219_073000,2/19/2017,"Puma, 6,400",Howler,7:30:31,0:09:29,End,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170219_073000,2/19/2017,"Puma, 6,400",Titi,7:30:00,0:00:43,Start,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170219_074500,2/19/2017,"Puma, 6,400",Howler,7:45:00,0:09:43,Start,4,Dry,1,,
+Silvy van Kuijk,PUMA_20170219_080000,2/19/2017,"Puma, 6,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170220_054500,2/20/2017,"Puma, 6,400",Titi,5:47:24,0:01:32,Complete,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170220_060000,2/20/2017,"Puma, 6,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170220_061500,2/20/2017,"Puma, 6,400",None,,,,,Drizzle,1,,Spider monkey calls
+Silvy van Kuijk,PUMA_20170220_063000,2/20/2017,"Puma, 6,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170220_064500,2/20/2017,"Puma, 6,400",Titi,6:49:22,0:05:31,Complete,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170220_070000,2/20/2017,"Puma, 6,400",None,,,,,Dry,1,,Faint spider monkey call
+Silvy van Kuijk,PUMA_20170220_071500,2/20/2017,"Puma, 6,400",None,,,,,Dry,1,,Woolly and faint spider monkey calls
+Silvy van Kuijk,PUMA_20170220_073000,2/20/2017,"Puma, 6,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20170220_074500,2/20/2017,"Puma, 6,400",Titi,7:50:10,0:04:08,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20170220_080000,2/20/2017,"Puma, 6,400",None,,,,,Dry,1,,Faint spider monkey calls
+Silvy van Kuijk,PUMA_20170224_054500,2/24/2017,"Puma, 6,800",Howler,5:47:40,0:01:20,Complete,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170224_060000,2/24/2017,"Puma, 6,800",Howler,6:00:00,0:10:00,"Start, End",4,Drizzle,1,,"Spider monkey calls, super clear one at 07:21"
+Silvy van Kuijk,PUMA_20170224_061500,2/24/2017,"Puma, 6,800",Howler,6:15:00,0:05:24,Start,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170224_063000,2/24/2017,"Puma, 6,800",Howler,6:30:33,0:08:07,Complete,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170224_064500,2/24/2017,"Puma, 6,800",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170224_070000,2/24/2017,"Puma, 6,800",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170224_071500,2/24/2017,"Puma, 6,800",Titi,7:18:50,0:06:10,End,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170224_073000,2/24/2017,"Puma, 6,800",None,,,,,Dry,1,,Spider monkey call
+Silvy van Kuijk,PUMA_20170224_074500,2/24/2017,"Puma, 6,800",None,,,,,Dry,1,,Spider monkey calls
+Silvy van Kuijk,PUMA_20170224_080000,2/24/2017,"Puma, 6,800",None,,,,,Dry,1,,Faint spider monkey calls
+Silvy van Kuijk,PUMA_20170225_054500,2/25/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170225_060000,2/25/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170225_061500,2/25/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170225_063000,2/25/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170225_064500,2/25/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170225_070000,2/25/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170225_071500,2/25/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170225_073000,2/25/2017,"Puma, 6,800",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170225_074500,2/25/2017,"Puma, 6,800",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170225_080000,2/25/2017,"Puma, 6,800",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20170226_054500,2/26/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170226_060000,2/26/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170226_061500,2/26/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170226_063000,2/26/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170226_064500,2/26/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170226_070000,2/26/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170226_071500,2/26/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170226_073000,2/26/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170226_074500,2/26/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20170226_080000,2/26/2017,"Puma, 6,800",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20130304_054500,3/4/2013,"Puma, -3,200",None,,,,,Drizzle,2,,Channel 2
+Silvy van Kuijk,PUMA_20130304_060000,3/4/2013,"Puma, -3,200",None,,,,,Rain,2,,Channel 2
+Silvy van Kuijk,PUMA_20130304_061500,3/4/2013,"Puma, -3,200",None,,,,,Drizzle,2,,Channel 2
+Silvy van Kuijk,PUMA_20130304_063000,3/4/2013,"Puma, -3,200",None,,,,,Rain,2,,Channel 2
+Silvy van Kuijk,PUMA_20130304_064500,3/4/2013,"Puma, -3,200",None,,,,,Rain,2,,Channel 2
+Silvy van Kuijk,PUMA_20130304_070000,3/4/2013,"Puma, -3,200",None,,,,,Rain,2,,Channel 2
+Silvy van Kuijk,PUMA_20130304_071500,3/4/2013,"Puma, -3,200",Howler,7:21:32,0:03:18,Complete,4,Drizzle,2,,Channel 2
+Silvy van Kuijk,PUMA_20130304_073000,3/4/2013,"Puma, -3,200",Howler,7:30:34,0:09:04,Complete,4,Drizzle,2,,Channel 2
+Silvy van Kuijk,PUMA_20130304_074500,3/4/2013,"Puma, -3,200",Howler,7:45:00,0:07:45,Start,4,Drizzle,2,,Channel 2
+Silvy van Kuijk,PUMA_20130304_080000,3/4/2013,"Puma, -3,200",None,,,,,Drizzle,2,,Channel 2
+Silvy van Kuijk,PUMA_20130305_054500,3/5/2013,"Puma, -3,200",None,,,,,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130305_060000,3/5/2013,"Puma, -3,200",None,,,,,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130305_061500,3/5/2013,"Puma, -3,200",None,,,,,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130305_063000,3/5/2013,"Puma, -3,200",None,,,,,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130305_064500,3/5/2013,"Puma, -3,200",None,,,,,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130305_070000,3/5/2013,"Puma, -3,200",None,,,,,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130305_071500,3/5/2013,"Puma, -3,200",None,,,,,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130305_073000,3/5/2013,"Puma, -3,200",Titi,7:30:00,0:02:48,Start,4,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130305_074500,3/5/2013,"Puma, -3,200",Titi,7:51:00,0:01:18,Complete,4,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130305_080000,3/5/2013,"Puma, -3,200",None,,,,,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130301_054500,3/1/2013,"Puma, 6,0",None,,,,,Rain,1,,Burst gobbles. Start time 05:53:28. Duration 00:01:32. Complete. Distance 4.
+Silvy van Kuijk,PUMA_20130301_060000,3/1/2013,"Puma, 6,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20130301_061500,3/1/2013,"Puma, 6,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20130301_063000,3/1/2013,"Puma, 6,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20130301_064500,3/1/2013,"Puma, 6,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20130301_070000,3/1/2013,"Puma, 6,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20130301_071500,3/1/2013,"Puma, 6,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20130301_073000,3/1/2013,"Puma, 6,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20130301_074500,3/1/2013,"Puma, 6,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20130301_080000,3/1/2013,"Puma, 6,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20130302_054500,3/2/2013,"Puma, 6,0",None,,,,,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130302_060000,3/2/2013,"Puma, 6,0",Howler,6:01:27,0:08:33,End,4,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130302_060000,3/2/2013,"Puma, 6,0",Titi,6:07:49,0:02:11,End,4,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130302_061500,3/2/2013,"Puma, 6,0",Howler,6:15:00,0:10:00,"Start, End",4,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130302_061500,3/2/2013,"Puma, 6,0",Titi,6:24:00,0:10:00,End,4,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130302_063000,3/2/2013,"Puma, 6,0",None,,,,,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130302_064500,3/2/2013,"Puma, 6,0",Titi,6:51:37,0:01:58,Complete,4,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130302_070000,3/2/2013,"Puma, 6,0",None,,,,,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130302_071500,3/2/2013,"Puma, 6,0",Titi,7:18:15,0:06:45,End,4,Dry,2,,"Channel 2, spider monkey call"
+Silvy van Kuijk,PUMA_20130302_073000,3/2/2013,"Puma, 6,0",Titi,7:30:00,0:09:11,Start,4,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130302_074500,3/2/2013,"Puma, 6,0",None,,,,,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130302_080000,3/2/2013,"Puma, 6,0",Titi,8:00:00,0:10:00,"Start, End",4,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130303_054500,3/3/2013,"Puma, 6,0",None,,,,,Drizzle,2,,Channel 2
+Silvy van Kuijk,PUMA_20130303_060000,3/3/2013,"Puma, 6,0",Howler,6:03:50,0:05:15,Complete,4,Drizzle,2,,Channel 2
+Silvy van Kuijk,PUMA_20130303_061500,3/3/2013,"Puma, 6,0",Titi,6:15:11,0:03:04,Complete,4,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130303_063000,3/3/2013,"Puma, 6,0",None,,,,,Drizzle,2,,Channel 2
+Silvy van Kuijk,PUMA_20130303_064500,3/3/2013,"Puma, 6,0",Titi,6:45:00,0:10:00,"Start, End",3,Drizzle,2,,"Channel 2, at least two groups singing here."
+Silvy van Kuijk,PUMA_20130303_070000,3/3/2013,"Puma, 6,0",None,,,,,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130303_071500,3/3/2013,"Puma, 6,0",None,,,,,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130303_073000,3/3/2013,"Puma, 6,0",Howler,7:36:55,0:03:05,End,4,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130303_074500,3/3/2013,"Puma, 6,0",Howler,7:45:00,0:09:35,Start,4,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20130303_080000,3/3/2013,"Puma, 6,0",None,,,,,Dry,2,,Channel 2
+Silvy van Kuijk,PUMA_20160223_054500,2/23/2016,"Puma, 0,800",Howler,5:49:44,0:01:38,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20160223_060000,2/23/2016,"Puma, 0,800",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,PUMA_20160223_060000,2/23/2016,"Puma, 0,800",Titi,6:02:52,0:01:32,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20160223_061500,2/23/2016,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160223_063000,2/23/2016,"Puma, 0,800",Howler,6:30:12,0:09:48,End,4,Dry,1,,
+Silvy van Kuijk,PUMA_20160223_064500,2/23/2016,"Puma, 0,800",Howler,6:46:28,0:00:13,Complete,3,Dry,1,,
+Silvy van Kuijk,PUMA_20160223_070000,2/23/2016,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160223_071500,2/23/2016,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160223_073000,2/23/2016,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160223_074500,2/23/2016,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160223_080000,2/23/2016,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160225_054500,2/25/2016,"Puma, 0,800",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160225_060000,2/25/2016,"Puma, 0,800",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160225_061500,2/25/2016,"Puma, 0,800",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160225_063000,2/25/2016,"Puma, 0,800",Howler,6:36:15,0:00:18,Complete,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160225_064500,2/25/2016,"Puma, 0,800",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160225_070000,2/25/2016,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160225_071500,2/25/2016,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160225_073000,2/25/2016,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160225_074500,2/25/2016,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160225_080000,2/25/2016,"Puma, 0,800",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160213_054500,2/13/2016,"Puma, 1,200",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160213_060000,2/13/2016,"Puma, 1,200",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,PUMA_20160213_060000,2/13/2016,"Puma, 1,200",Howler,6:02:06,0:07:54,Complete,2,Dry,1,,
+Silvy van Kuijk,PUMA_20160213_061500,2/13/2016,"Puma, 1,200",Howler,6:15:00,0:01:53,Start,2,Dry,1,,Woollies at recorder
+Silvy van Kuijk,PUMA_20160213_063000,2/13/2016,"Puma, 1,200",None,,,,,Dry,1,,Woollies at recorder
+Silvy van Kuijk,PUMA_20160213_064500,2/13/2016,"Puma, 1,200",Howler,6:45:00,0:08:18,Start,4,Dry,1,,
+Silvy van Kuijk,PUMA_20160213_070000,2/13/2016,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160213_071500,2/13/2016,"Puma, 1,200",None,,,,,Dry,1,,Woollies eating (?) above recorder. Fruits dropping?
+Silvy van Kuijk,PUMA_20160213_073000,2/13/2016,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160213_074500,2/13/2016,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160213_080000,2/13/2016,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160214_054500,2/14/2016,"Puma, 1,200",Howler,5:46:21,0:08:39,End,4,Dry,1,,
+Silvy van Kuijk,PUMA_20160214_060000,2/14/2016,"Puma, 1,200",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,PUMA_20160214_061500,2/14/2016,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160214_063000,2/14/2016,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160214_064500,2/14/2016,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160214_070000,2/14/2016,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160214_071500,2/14/2016,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160214_073000,2/14/2016,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160214_074500,2/14/2016,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160214_080000,2/14/2016,"Puma, 1,200",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160210_054500,2/10/2016,"Puma, -2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20160210_060000,2/10/2016,"Puma, -2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20160210_061500,2/10/2016,"Puma, -2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20160210_063000,2/10/2016,"Puma, -2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20160210_064500,2/10/2016,"Puma, -2,0",Howler,6:45:00,0:10:00,"Start, End",4,Rain,1,,
+Silvy van Kuijk,PUMA_20160210_070000,2/10/2016,"Puma, -2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20160210_071500,2/10/2016,"Puma, -2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20160210_073000,2/10/2016,"Puma, -2,0",Howler,7:33:59,0:06:01,End,4,Rain,1,,
+Silvy van Kuijk,PUMA_20160210_074500,2/10/2016,"Puma, -2,0",Howler,7:45:00,0:03:25,Start,4,Rain,1,,Continuation of call in previous file.
+Silvy van Kuijk,PUMA_20160210_080000,2/10/2016,"Puma, -2,0",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160211_054500,2/11/2016,"Puma, -2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20160211_060000,2/11/2016,"Puma, -2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20160211_061500,2/11/2016,"Puma, -2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20160211_063000,2/11/2016,"Puma, -2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20160211_064500,2/11/2016,"Puma, -2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20160211_070000,2/11/2016,"Puma, -2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20160211_071500,2/11/2016,"Puma, -2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20160211_073000,2/11/2016,"Puma, -2,0",None,,,,,Rain,1,,
+Silvy van Kuijk,PUMA_20160211_074500,2/11/2016,"Puma, -2,0",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160211_080000,2/11/2016,"Puma, -2,0",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160212_054500,2/12/2016,"Puma, -2,0",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160212_060000,2/12/2016,"Puma, -2,0",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160212_061500,2/12/2016,"Puma, -2,0",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160212_063000,2/12/2016,"Puma, -2,0",Howler,6:34:44,0:04:07,Complete,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160212_064500,2/12/2016,"Puma, -2,0",Titi,6:54:25,0:00:35,End,3,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160212_070000,2/12/2016,"Puma, -2,0",Titi,7:00:50,0:01:11,Complete,3,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160212_070000,2/12/2016,"Puma, -2,0",Titi,7:02:54,0:06:08,Complete,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160212_071500,2/12/2016,"Puma, -2,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160212_073000,2/12/2016,"Puma, -2,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160212_074500,2/12/2016,"Puma, -2,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160212_080000,2/12/2016,"Puma, -2,0",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160215_054500,2/15/2016,"Puma, 6,400",Howler,5:51:31,0:03:29,End,4,Rain,1,,
+Silvy van Kuijk,PUMA_20160215_060000,2/15/2016,"Puma, 6,400",Howler,6:00:55,0:09:05,End,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160215_061500,2/15/2016,"Puma, 6,400",Howler,6:15:00,0:01:00,Start,4,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160215_063000,2/15/2016,"Puma, 6,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160215_064500,2/15/2016,"Puma, 6,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160215_070000,2/15/2016,"Puma, 6,400",None,,,,,Drizzle,1,,
+Silvy van Kuijk,PUMA_20160215_071500,2/15/2016,"Puma, 6,400",Howler,7:15:11,0:04:09,Complete,4,Dry,1,,
+Silvy van Kuijk,PUMA_20160215_073000,2/15/2016,"Puma, 6,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160215_074500,2/15/2016,"Puma, 6,400",None,,,,,Dry,1,,
+Silvy van Kuijk,PUMA_20160215_080000,2/15/2016,"Puma, 6,400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130208_054500,2/8/2013,"Harpia, 7,400",Howler,5:51:07,0:03:53,End,3,Dry,1,,
+Silvy van Kuijk,HARPIA_20130208_060000,2/8/2013,"Harpia, 7,400",Howler,6:00:00,0:10:00,"Start, End",4,Dry,1,,
+Silvy van Kuijk,HARPIA_20130208_061500,2/8/2013,"Harpia, 7,400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130208_063000,2/8/2013,"Harpia, 7,400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130208_064500,2/8/2013,"Harpia, 7,400",Titi,6:48:22,0:03:20,Complete,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20130208_070000,2/8/2013,"Harpia, 7,400",Titi,7:00:00,0:08:15,Start,4,Dry,1,,Clear screaming piha call.
+Silvy van Kuijk,HARPIA_20130208_071500,2/8/2013,"Harpia, 7,400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130208_073000,2/8/2013,"Harpia, 7,400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130208_074500,2/8/2013,"Harpia, 7,400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130208_080000,2/8/2013,"Harpia, 7,400",Titi,8:00:10,0:04:47,Complete,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20130209_054500,2/9/2013,"Harpia, 7,400",None,,,,,Rain,1,,Lots of thunder this morning!
+Silvy van Kuijk,HARPIA_20130209_060000,2/9/2013,"Harpia, 7,400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130209_061500,2/9/2013,"Harpia, 7,400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130209_063000,2/9/2013,"Harpia, 7,400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130209_064500,2/9/2013,"Harpia, 7,400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130209_070000,2/9/2013,"Harpia, 7,400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130209_071500,2/9/2013,"Harpia, 7,400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130209_073000,2/9/2013,"Harpia, 7,400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130209_074500,2/9/2013,"Harpia, 7,400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130209_080000,2/9/2013,"Harpia, 7,400",None,,,,,Rain,1,,
+Silvy van Kuijk,HARPIA_20130210_054500,2/10/2013,"Harpia, 7,400",Titi,5:52:39,0:02:21,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20130210_060000,2/10/2013,"Harpia, 7,400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130210_061500,2/10/2013,"Harpia, 7,400",Howler,6:22:25,0:02:35,End,4,Dry,1,,
+Silvy van Kuijk,HARPIA_20130210_063000,2/10/2013,"Harpia, 7,400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130210_064500,2/10/2013,"Harpia, 7,400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130210_070000,2/10/2013,"Harpia, 7,400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130210_071500,2/10/2013,"Harpia, 7,400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130210_073000,2/10/2013,"Harpia, 7,400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130210_074500,2/10/2013,"Harpia, 7,400",None,,,,,Dry,1,,
+Silvy van Kuijk,HARPIA_20130210_080000,2/10/2013,"Harpia, 7,400",None,,,,,Dry,1,,
