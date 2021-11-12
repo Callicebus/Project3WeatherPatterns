@@ -1,4 +1,4 @@
-Date,Time,Celsius,Humidity,DewPoint,DeviceType,SerialNumber
+Date,Time,Temperature,Humidity,DewPoint,DeviceType,SerialNumber
 2/6/2013,12:00:00 AM,23,99.5,22.9,EasyLog,10049571
 2/6/2013,1:00:00 AM,23.5,99.5,23.4,EasyLog,10049571
 2/6/2013,2:00:00 AM,23.5,99.5,23.4,EasyLog,10049571
